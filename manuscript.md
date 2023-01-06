@@ -1,14 +1,13 @@
 ---
-title: Manuscript Title
+title: Formes & perception
 keywords:
-- markdown
-- publishing
-- manubot
-lang: en-US
-date-meta: '2023-01-04'
+- Perception visuelle
+- Neurosciences
+- Art
+lang: fr-FR
+date-meta: '2023-01-06'
 author-meta:
-- John Doe
-- Jane Roe
+- Laurent U Perrinet
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -16,38 +15,34 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2023-01-04" />
-  <meta name="citation_publication_date" content="2023-01-04" />
-  <meta property="article:published_time" content="2023-01-04" />
-  <meta name="dc.modified" content="2023-01-04T14:16:19+00:00" />
-  <meta property="article:modified_time" content="2023-01-04T14:16:19+00:00" />
-  <meta name="dc.language" content="en-US" />
-  <meta name="citation_language" content="en-US" />
+  <meta name="dc.title" content="Formes &amp; perception" />
+  <meta name="citation_title" content="Formes &amp; perception" />
+  <meta property="og:title" content="Formes &amp; perception" />
+  <meta property="twitter:title" content="Formes &amp; perception" />
+  <meta name="dc.date" content="2023-01-06" />
+  <meta name="citation_publication_date" content="2023-01-06" />
+  <meta property="article:published_time" content="2023-01-06" />
+  <meta name="dc.modified" content="2023-01-06T14:14:21+00:00" />
+  <meta property="article:modified_time" content="2023-01-06T14:14:21+00:00" />
+  <meta name="dc.language" content="fr-FR" />
+  <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Laurent U Perrinet" />
+  <meta name="citation_author_institution" content="Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université" />
+  <meta name="citation_author_orcid" content="0000-0002-9536-010X" />
+  <meta name="twitter:creator" content="@laurentperrinet" />
   <link rel="canonical" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/" />
   <meta property="og:url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/" />
   <meta property="twitter:url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/" />
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/b7a5c3f80d23ecb53de321822e2a2239209e01c7/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/b7a5c3f80d23ecb53de321822e2a2239209e01c7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/b7a5c3f80d23ecb53de321822e2a2239209e01c7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/0a8de25a6484f02adb5413ba540473036b1a66fa/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/0a8de25a6484f02adb5413ba540473036b1a66fa/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/0a8de25a6484f02adb5413ba540473036b1a66fa/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +64,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/b7a5c3f80d23ecb53de321822e2a2239209e01c7/))
+([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/0a8de25a6484f02adb5413ba540473036b1a66fa/))
 was automatically generated
-from [laurentperrinet/2023-01-31_formes-et-perception@b7a5c3f](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/b7a5c3f80d23ecb53de321822e2a2239209e01c7)
-on January 4, 2023.
+from [laurentperrinet/2023-01-31_formes-et-perception@0a8de25](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/0a8de25a6484f02adb5413ba540473036b1a66fa)
+on January 6, 2023.
 </em></small>
 
 
@@ -81,42 +76,28 @@ on January 4, 2023.
 
 
 
-+ **John Doe**
++ **Laurent U Perrinet**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0002-9536-010X](https://orcid.org/0000-0002-9536-010X)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
+    [laurentperrinet](https://github.com/laurentperrinet)
     · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)
+    [laurentperrinet](https://twitter.com/laurentperrinet)
     <br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**
-  ^[✉](#correspondence)^<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)
-    <br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université
+     · Funded by This research was funded by the European Union ERA-NET CHIST-ERA 2018 research and innovation program under grant number ANR-19-CHR3-0008-03 “APROVIS3D”, ANR grant number ANR-20-CE23-0021 “AgileNeuroBot”, as well as from Initiative d’Excellence d’Aix-Marseille Université–A*MIDEX grant number AMX-21-RID-025 “Polychronies”.
   </small>
 
 
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/issues)
-or email to
-Jane Roe \<jane.roe@whatever.edu\>.
-
 
 :::
 
 
-## Abstract {.page_break_before}
+## Résumé {.page_break_before}
 
 
 
