@@ -5,7 +5,7 @@ keywords:
 - Neurosciences
 - Art
 lang: fr-FR
-date-meta: '2023-01-06'
+date-meta: '2023-01-12'
 author-meta:
 - Laurent U Perrinet
 header-includes: |
@@ -19,11 +19,11 @@ header-includes: |
   <meta name="citation_title" content="Formes &amp; perception" />
   <meta property="og:title" content="Formes &amp; perception" />
   <meta property="twitter:title" content="Formes &amp; perception" />
-  <meta name="dc.date" content="2023-01-06" />
-  <meta name="citation_publication_date" content="2023-01-06" />
-  <meta property="article:published_time" content="2023-01-06" />
-  <meta name="dc.modified" content="2023-01-06T14:14:21+00:00" />
-  <meta property="article:modified_time" content="2023-01-06T14:14:21+00:00" />
+  <meta name="dc.date" content="2023-01-12" />
+  <meta name="citation_publication_date" content="2023-01-12" />
+  <meta property="article:published_time" content="2023-01-12" />
+  <meta name="dc.modified" content="2023-01-12T13:54:10+00:00" />
+  <meta property="article:modified_time" content="2023-01-12T13:54:10+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -33,16 +33,15 @@ header-includes: |
   <meta name="citation_author" content="Laurent U Perrinet" />
   <meta name="citation_author_institution" content="Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université" />
   <meta name="citation_author_orcid" content="0000-0002-9536-010X" />
-  <meta name="twitter:creator" content="@laurentperrinet" />
   <link rel="canonical" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/" />
   <meta property="og:url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/" />
   <meta property="twitter:url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/" />
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/0a8de25a6484f02adb5413ba540473036b1a66fa/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/0a8de25a6484f02adb5413ba540473036b1a66fa/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/0a8de25a6484f02adb5413ba540473036b1a66fa/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/d0915733fff0c972d0bfab6de67a808233cde6b3/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/d0915733fff0c972d0bfab6de67a808233cde6b3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/d0915733fff0c972d0bfab6de67a808233cde6b3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,37 +63,28 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/0a8de25a6484f02adb5413ba540473036b1a66fa/))
+([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/d0915733fff0c972d0bfab6de67a808233cde6b3/))
 was automatically generated
-from [laurentperrinet/2023-01-31_formes-et-perception@0a8de25](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/0a8de25a6484f02adb5413ba540473036b1a66fa)
-on January 6, 2023.
+from [laurentperrinet/2023-01-31_formes-et-perception@d091573](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/d0915733fff0c972d0bfab6de67a808233cde6b3)
+on 2023-01-12.
 </em></small>
-
-
 
 ## Authors
 
 
 
-+ **Laurent U Perrinet**
-  <br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
++ **Laurent U Perrinet**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
     [0000-0002-9536-010X](https://orcid.org/0000-0002-9536-010X)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    · ![GitHub icon](images/github.svg){.inline_icon}
     [laurentperrinet](https://github.com/laurentperrinet)
-    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [laurentperrinet](https://twitter.com/laurentperrinet)
-    <br>
+  · ![Mastodon icon](images/mastodon.svg){.inline_icon}
+  [\@laurentperrinet@neuromatch.social](https://neuromatch.social/@laurentperrinet)<br>
   <small>
      Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université
      · Funded by This research was funded by the European Union ERA-NET CHIST-ERA 2018 research and innovation program under grant number ANR-19-CHR3-0008-03 “APROVIS3D”, ANR grant number ANR-20-CE23-0021 “AgileNeuroBot”, as well as from Initiative d’Excellence d’Aix-Marseille Université–A*MIDEX grant number AMX-21-RID-025 “Polychronies”.
   </small>
 
-
-::: {#correspondence}
-✉ — Correspondence possible via [GitHub Issues](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/issues)
-
-:::
 
 
 ## Résumé {.page_break_before}
