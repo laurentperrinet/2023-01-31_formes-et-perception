@@ -5,7 +5,7 @@ keywords:
 - Neurosciences
 - Art
 lang: fr-FR
-date-meta: '2023-01-12'
+date-meta: '2023-01-29'
 author-meta:
 - Laurent U Perrinet
 header-includes: |
@@ -19,11 +19,11 @@ header-includes: |
   <meta name="citation_title" content="Formes &amp; perception" />
   <meta property="og:title" content="Formes &amp; perception" />
   <meta property="twitter:title" content="Formes &amp; perception" />
-  <meta name="dc.date" content="2023-01-12" />
-  <meta name="citation_publication_date" content="2023-01-12" />
-  <meta property="article:published_time" content="2023-01-12" />
-  <meta name="dc.modified" content="2023-01-12T13:54:10+00:00" />
-  <meta property="article:modified_time" content="2023-01-12T13:54:10+00:00" />
+  <meta name="dc.date" content="2023-01-29" />
+  <meta name="citation_publication_date" content="2023-01-29" />
+  <meta property="article:published_time" content="2023-01-29" />
+  <meta name="dc.modified" content="2023-01-29T17:50:37+00:00" />
+  <meta property="article:modified_time" content="2023-01-29T17:50:37+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/d0915733fff0c972d0bfab6de67a808233cde6b3/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/d0915733fff0c972d0bfab6de67a808233cde6b3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/d0915733fff0c972d0bfab6de67a808233cde6b3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/934e96955f8c8e367a8d5013e88da2b5476136b1/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/934e96955f8c8e367a8d5013e88da2b5476136b1/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/934e96955f8c8e367a8d5013e88da2b5476136b1/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,10 +63,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/d0915733fff0c972d0bfab6de67a808233cde6b3/))
+([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/934e96955f8c8e367a8d5013e88da2b5476136b1/))
 was automatically generated
-from [laurentperrinet/2023-01-31_formes-et-perception@d091573](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/d0915733fff0c972d0bfab6de67a808233cde6b3)
-on 2023-01-12.
+from [laurentperrinet/2023-01-31_formes-et-perception@934e969](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/934e96955f8c8e367a8d5013e88da2b5476136b1)
+on 2023-01-29.
 </em></small>
 
 ## Authors
@@ -89,6 +89,33 @@ on 2023-01-12.
 
 ## Résumé {.page_break_before}
 
+Observer une œuvre d'art permet de révéler la relation étroite entre la réalité et notre façon de la percevoir. Grâce aux avancées récentes en neurosciences, nous pouvons en savoir plus sur cette question fondamentale de la philosophie.
+
+## Matière à voir, la neuroscience de la vision
+
+Commençons par imaginer que nous regardons un portrait. Notre système nerveux est responsable de notre capacité de voir le monde lumineux qui en résulte. Les photons présents dans la gamme de fréquence visible sont concentrés par nos yeux pour former une image du portrait sur la rétine, une fine surface qui tapisse le fond de l'œil contient un réseau compact de neurones photosensibles. La rétine transforme cette image en un signal electro-chimique qui entraine une cascade de processus qui permet de séparer différents caractéristiques de la lumière, comme notamment le contraste ou la couleur, pour finalement former une représentation neurale qui est interprétée par le reste du cerveau grâce au nerf optique.
+
+Il est remarquable de constater que cette représentation est contrainte par l'anatomie de l'œil et de la rétine. Ainsi, la densité de neurones est bien plus élevée autour du centre de l'axe de vue, où environ la moitié de notre acuité visuelle est concentrée sur une zone équivalente à celle de l'ongle du pouce vu le bras étendu. Cette zone, appelée fovea, est principalement composée de photorécepteurs sensibles aux couleurs. En revanche, les photorécepteurs en périphérie de cette zone sont principalement insensibles aux couleurs, mais ont la capacité de répondre rapidement aux variations de luminosité mais aussi de s'adapter à des conditions d'éclairage changeantes. Cette contrainte physiologique explique pourquoi les objets peuvent apparaître monochromatiques sous un clair de lune ou pourquoi nous pouvons plus facilement détecter une étoile si on fixe légèrement à côté d'elle. 
+
+Cette représentation de l'image est ensuite relayée au reste du cerveau, notamment sur les aires visuelles situées sur sa surface, le cortex. Cela se produit grâce à une série de processus qui affinent progressivement les caractéristiques visuelles. En premier, l'information de nos deux yeux converge pour former une représentation binoculaire qui va permettre l'extraction de caractéristiques locales basiques : orientation locale des contours, disparité entre les deux yeux, contrastes de couleur,... Depuis cette représentation, des aires spécialisées vont extraire des conjonctions entre ces caracteristiques pour enfin obtenir des indices de plus haut niveau, comme identifier les parties qui constituent le portrait et ensuite déchiffrer l'expression sur l'image du visage.
+
+En connaissant ces principes anatomiques de formation de l'image rétinienne, il est possible de les intégrer pour les mettre en évidence. Dans «interférence», Etienne Rey dispose une grille hexagonale rhythmique des éléments similaires, points, hexagones ou carrés. Une seconde grille est superposée et crée un effet de Moiré dont l'oscillation est plus lente. Ces deux échelles sont en conflit avec l'arrangement des photorécepteurs de la rétine et créent une impression d'instabilité. Les points semblent s'organiser suivant des lignes, suggérant une organisation en profondeur, mais dès qu'on l'attrape, la perception s'évanouit appelant à sauter sur une autre position.
+
+Pour résumer, on pourrait comprendre les processus visuels en utilisant l'analogie d'une caméra video: Une lentille focalise l'image sur des senseurs, puis cette information est traitée par d'autres mécanismes, par exemple pour extraire les objets, mesurer leur vitesse ou les identifier. Mais la réalité est bien plus complexe car comme nous l'avons vu l'image est déformée sur la rétine, et d'autre part le traitement de cette information n'est pas simplement séquentiel. Ainsi, les aires corticales communiquent dans les deux sens, de telle sorte qu'un objet d'intéret, par exemple le visage, puisse être rendu plus saillant dans les aires de bas niveau. De plus, des phénomènes attentifs peuvent par exemple conduire à être plus alerte pour certaines caractéristiques a priori, comme une couleur ou une zone de l'espace visuel. Ces mécanismes sont largement inconscients et sont de façon surprenante très éloignés de la stabilité apparente de notre perception.
+
+<!-- machines stroboscopiques de Duchamp -->
+
+## Des formes à la perception
+
+L'acte de voir n'est pas un processus passif, mais plutôt un dialogue via la perception entre la sensation des objets visuels et leur représentation interne. La perception permet de regrouper des éléments de la scène visuelle en se basant sur le principe que le tout est plus que la somme des parties. Les formes qui sont assemblées sont organisées à partir de ce qui peut être observé dans la nature, comme les objets auto-similaires (comme les arbres ou les fractales) ainsi les répétitions et rhythmes visuels  (comme les arrangements de graines d'un tournesol). La perception se caractérise également par la présence de symétries, notamment car celles-ci sont très présentes dans les formes naturelles, comme la symétrie gauche/droite du corps humain. La perception peut-être consciente, mais de nombreux mécanismes restent inconscients. Elle se caractérise par une unicité de l'expérience : si une interprétation peut varier, elle est unique à un moment donné. Pour deux interprétations possibles, alors la plus simple est souvent choisie. Les artistes cherchent souvent à utiliser cet aspect pour exprimer une certaine harmonie dans leur composition. La perception est donc ce processus qui, en se basant sur la connaissance des régularités observées dans la nature, permet de former une représentation stable du monde qui nous entoure.
+
+La perception est la façon dont nous interprétons les informations que nous recevons à travers nos sens. Cela peut parfois entraîner des pareidolies, c'est-à-dire de la perception d'un objet là où il n'y en a pas, par exemple voir un visage dans les formes texturées d'un rocher. Ce phénomène a été utilisé dans l'œuvre et "trames" (présentée en 2020 à Andémone, Avignon ; voir Figure), qui consistait en une triangulation de points disposés au hasard sur un carré. La densité des triangles et leur arrangement aléatoire invitaient les observateurs à imaginer des formes imaginaires comme des voiles, des perspectives ou des visages. Dans une autre œuvre présentée au festival XYY à la Fondation Vasarely, cette expérience était poussée plus loin: 25 monolithes de 2m 50 de haut et de 40 cm de largeur étaient placés sur un socle rectiligne de 3m étaient chacun mis en mouvement indépendamment par rapport à l'angle par rapport l'axe vertical. Suivant une chorégraphie prédéfinie, la combinaison des angles provoquant des zones de calme cristallin qui se transformaient en instants de chaos. Ce procédé permettait de projeter son propre reflet tout en le fragmentant dans l'environnent de l'œuvre, notamment les rithmes colorés de Vasarely, afin de produire un va-et-vient entre les mondes reels et perçus. Il était alors nécessaire pour les observateurs de changer de perspective pour résoudre cette incertitude, illustrant le lien intime entre monde réel et perçu.
+
+Il est encore difficile de comprendre exactement comment nous percevons le monde visuel, mais il semble que, par rapport à la représentation analogique produite par la rétine, la perception manipule un monde numérique d'objets visuels. En effet, à l'image de l'alphabet plastique de Viktor Vasarely, nous manipulons des symboles auquel on peut attribuer des numeros à chaque élément. Par exemple, les contours d'un objet avec un certains nombre d'orientations peuvent suffire à le reconnaître, même s'il s'agit seulement d'une esquisse de traits. Un caractère essentiel de cette organisation perceptive est appelée la "Gestalt", c'est-à-dire, la mise en forme des éléments pour former un tout. L'ensemble de ces règles permettent à notre cerveau de relier les contours  en fonction de leur proximité (spatiale ou de couleur), leur similarité ou leur continuité, et d'autres qui permettent de séparer les objets de leur fond. Ces règles forment une sorte de grammaire qui guide notre perception des choses.
+
+La perception nous permet de relier notre monde intérieur à l'environnement extérieur réel. Selon cette approche phénoménologique, le monde visuel extérieur est une source importante d'inspiration qui alimente notre monde intérieur. La performance artistique, qui est considérée comme étant un domaine réservé aux humains, joue un rôle important dans notre vie mentale car elle nourrit notre perception. L'observation et la création artistique nous permettent de remettre en question et d'enrichir notre compréhension de l'environnement. Un exemple de cette approche est l'œuvre "Les voyageurs" d'Holbein, dans lequel un *memento mori* est caché dans une perspective visible suivant un point de vue excentré et  montre comment un changement de perspective peut donner un sens nouveau à une scène visuelle. Ce lien intime et créatif entre l'œuvre d'art et sa compréhension contribue au plaisir, aux émotions et à l'expérience artistique en général.
+
+## Voir a t-il un sens?
 
 
 
