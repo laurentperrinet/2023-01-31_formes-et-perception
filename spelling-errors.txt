@@ -3,7 +3,7 @@ adipiscing
 affine
 afin
 AgileNeuroBot
-Ainsi
+ainsi
 Aix
 aléatoire
 alerte
@@ -59,10 +59,10 @@ certaine
 certaines
 certains
 cerveau
-ces
+Ces
 c’est
 cet
-Cette
+cette
 ceux
 chacun
 changeantes
@@ -164,7 +164,7 @@ electro
 éléments
 élevée
 elit
-elle
+Elle
 éloignés
 émotions
 enfin
@@ -218,7 +218,7 @@ fréquence
 fugiat
 gamme
 général
-Grâce
+grâce
 graines
 grammaire
 harmonie
@@ -293,7 +293,7 @@ lumineux
 luminosité
 lune
 magna
-Mais
+mais
 manipule
 manipulons
 Marseille
@@ -439,7 +439,7 @@ responsable
 reste
 restent
 résulte
-Résumé
+résumé
 rétine
 rétinienne
 retrouvent
@@ -484,7 +484,7 @@ spécialisées
 stabilité
 suffire
 suggérant
-suivant
+Suivant
 sunt
 superposée
 sur
@@ -507,7 +507,7 @@ transmise
 travers
 très
 ullamco
-une
+Une
 unicité
 Université
 utilisé
@@ -524,7 +524,7 @@ visuelles
 visuels
 vitesse
 voiles
-Voir
+voir
 voluptate
 vont
 vu
