@@ -3,14 +3,14 @@ acuité
 affine
 afin
 agissant
-Ainsi
+ainsi
 Aix
 aléatoire
 alerte
 alignements
 alignés
 alimente
-alors
+Alors
 âme
 analogique
 anatomiques
@@ -78,14 +78,14 @@ certains
 cerveau
 ces
 c’est
-cet
-cette
+Cet
+Cette
 ceux
 chacun
 changeantes
 changement
 changements
-Chaque
+chaque
 cherchent
 chimique
 choisie
@@ -166,7 +166,7 @@ densité
 déplaçant
 dépourvus
 Depuis
-Des
+des
 dès
 détecter
 deux
@@ -214,7 +214,7 @@ electro
 élémentaires
 éléments
 élevée
-elle
+Elle
 éloignés
 émergé
 émerger
@@ -273,7 +273,7 @@ focalise
 fois
 fonction
 fondamentale
-fondation
+Fondation
 formaient
 forme
 formée
@@ -289,7 +289,7 @@ général
 génération
 générées
 générer
-grâce
+Grâce
 graines
 grammaire
 habituel
@@ -362,7 +362,7 @@ l’espace
 leur
 leurs
 levait
-L’évolution
+l’évolution
 levons
 l’expérience
 l’expression
@@ -383,7 +383,7 @@ l’œil
 l’œuvre
 l’on
 l’ongle
-l’organisation
+L’organisation
 l’orientation
 lorsqu’elles
 l’oscillation
@@ -393,7 +393,7 @@ luminosité
 lune
 macroscopique
 maintenant
-mais
+Mais
 manière
 manipulant
 manipule
@@ -434,7 +434,7 @@ nerveux
 n’est
 neurale
 neurones
-Neurosciences
+neurosciences
 niveau
 nombre
 nombreux
@@ -591,7 +591,7 @@ responsable
 reste
 restent
 résulte
-Résumé
+résumé
 retardée
 rétine
 rétinienne
@@ -651,7 +651,7 @@ spontanément
 stabilité
 suffire
 suggérant
-suivant
+Suivant
 suivre
 superposée
 sur
@@ -694,7 +694,7 @@ très
 triptyque
 trompés
 Tropique
-Une
+une
 unicité
 Université
 utilisant

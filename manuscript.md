@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-30" />
   <meta name="citation_publication_date" content="2023-01-30" />
   <meta property="article:published_time" content="2023-01-30" />
-  <meta name="dc.modified" content="2023-01-30T12:26:27+00:00" />
-  <meta property="article:modified_time" content="2023-01-30T12:26:27+00:00" />
+  <meta name="dc.modified" content="2023-01-30T17:31:21+00:00" />
+  <meta property="article:modified_time" content="2023-01-30T17:31:21+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/ca15d1424782254960fac3c3e3bfc5ad198289f1/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/ca15d1424782254960fac3c3e3bfc5ad198289f1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/ca15d1424782254960fac3c3e3bfc5ad198289f1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/5423faa8941a6b579066df9e3e805cc17712a836/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/5423faa8941a6b579066df9e3e805cc17712a836/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/5423faa8941a6b579066df9e3e805cc17712a836/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/ca15d1424782254960fac3c3e3bfc5ad198289f1/))
+([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/5423faa8941a6b579066df9e3e805cc17712a836/))
 was automatically generated
-from [laurentperrinet/2023-01-31_formes-et-perception@ca15d14](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/ca15d1424782254960fac3c3e3bfc5ad198289f1)
+from [laurentperrinet/2023-01-31_formes-et-perception@5423faa](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/5423faa8941a6b579066df9e3e805cc17712a836)
 on 2023-01-30.
 </em></small>
 
@@ -137,9 +137,3 @@ En manipulant formes et perceptions, l'importance de la créativité est mise en
 ## Voir a t-il un sens ?
 
 Pour conclure, nous levons un voile sur le sens de la vision, sur sa fonction comme synergie entre formes sensorielles et perception. Cette synergie définit notre "cinéma interne" qui, à l'analogue de notre voix interne, définit pour une large part notre identité. Art et sciences questionnent ce rapport aves des outils différent mais complémentaires et permettent de redéfinir notre rapport au monde en tant qu'individus et en tant qu'espèce.
-
-## References {.page_break_before}
-
-<!-- Explicitly insert bibliography here -->
-<div id="refs"></div>
-
