@@ -69,17 +69,17 @@ caracteristiques
 caractéristiques
 carré
 Cela
-Celle
+celle
 celles
 cellules
 certaine
 certaines
 certains
 cerveau
-Ces
+ces
 c’est
 cet
-Cette
+cette
 ceux
 chacun
 changeantes
@@ -118,6 +118,7 @@ conjonctions
 connaissance
 connaissant
 consciente
+Conservant
 considérée
 considérer
 consistait
@@ -146,7 +147,7 @@ créer
 cristallin
 d’adaptabilité
 d’Aix
-dans
+Dans
 d’art
 d’attractions
 d’autre
@@ -272,7 +273,7 @@ focalise
 fois
 fonction
 fondamentale
-Fondation
+fondation
 formaient
 forme
 formée
@@ -342,6 +343,7 @@ l’angle
 l’Année
 l’antomie
 laquelle
+l’arangement
 largement
 largeur
 l’arrangement
@@ -349,6 +351,7 @@ laurentperrinet
 l’avons
 l’axe
 légèrement
+l’émergence
 L’ensemble
 lente
 lentille
@@ -359,7 +362,7 @@ l’espace
 leur
 leurs
 levait
-l’évolution
+L’évolution
 levons
 l’expérience
 l’expression
@@ -380,7 +383,7 @@ l’œil
 l’œuvre
 l’on
 l’ongle
-L’organisation
+l’organisation
 l’orientation
 lorsqu’elles
 l’oscillation
@@ -390,7 +393,7 @@ luminosité
 lune
 macroscopique
 maintenant
-Mais
+mais
 manière
 manipulant
 manipule
@@ -419,6 +422,7 @@ monochromatiques
 monolithes
 montre
 mori
+motié
 mouvement
 mouvements
 naturelle
@@ -435,7 +439,7 @@ niveau
 nombre
 nombreux
 notamment
-notre
+Notre
 nourrit
 nouveau
 nouvelle
@@ -465,7 +469,6 @@ parfaite
 parfois
 partielles
 passif
-perçaction
 percevoir
 percevons
 perçu
@@ -531,6 +534,7 @@ projettent
 propre
 protrait
 provoquait
+provoquant
 proximité
 puis
 puisse
@@ -554,12 +558,14 @@ rectiligne
 redéfinir
 réel
 reflet
+réflétés
 régissait
 règles
 regrouper
 régularités
 relayée
 relier
+reliés
 remarquable
 remettre
 remplie
@@ -585,7 +591,7 @@ responsable
 reste
 restent
 résulte
-résumé
+Résumé
 retardée
 rétine
 rétinienne
@@ -656,6 +662,7 @@ symétries
 synergie
 système
 systèmes
+taille
 tailles
 tant
 tantôt
@@ -672,11 +679,12 @@ toujours
 tournesol
 Toutefois
 toutes
+traite
 traitée
 traitement
 traiter
 Trame
-Trames
+trames
 transformaient
 transforme
 transmise
@@ -686,7 +694,7 @@ très
 triptyque
 trompés
 Tropique
-une
+Une
 unicité
 Université
 utilisant
