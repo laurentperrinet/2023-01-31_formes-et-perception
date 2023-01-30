@@ -78,14 +78,14 @@ certains
 cerveau
 Ces
 c’est
-Cet
-cette
+cet
+Cette
 ceux
 chacun
 changeantes
 changement
 changements
-chaque
+Chaque
 cherchent
 chimique
 choisie
@@ -213,7 +213,7 @@ electro
 élémentaires
 éléments
 élevée
-Elle
+elle
 éloignés
 émergé
 émerger
@@ -272,7 +272,7 @@ focalise
 fois
 fonction
 fondamentale
-fondation
+Fondation
 formaient
 forme
 formée
@@ -359,7 +359,7 @@ l’espace
 leur
 leurs
 levait
-L’évolution
+l’évolution
 levons
 l’expérience
 l’expression
@@ -390,7 +390,7 @@ luminosité
 lune
 macroscopique
 maintenant
-mais
+Mais
 manière
 manipulant
 manipule
@@ -430,7 +430,7 @@ nerveux
 n’est
 neurale
 neurones
-neurosciences
+Neurosciences
 niveau
 nombre
 nombreux
@@ -585,7 +585,7 @@ responsable
 reste
 restent
 résulte
-Résumé
+résumé
 retardée
 rétine
 rétinienne
@@ -645,7 +645,7 @@ spontanément
 stabilité
 suffire
 suggérant
-Suivant
+suivant
 suivre
 superposée
 sur
@@ -676,7 +676,7 @@ traitée
 traitement
 traiter
 Trame
-trames
+Trames
 transformaient
 transforme
 transmise
