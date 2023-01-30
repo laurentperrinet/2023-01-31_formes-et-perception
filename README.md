@@ -4,6 +4,7 @@
 
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/)
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf)
+[![DOCX Manuscript](https://img.shields.io/badge/manuscript-DOCX-blue.svg)](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.docx)
 [![GitHub Actions Status](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/workflows/Manubot/badge.svg)](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/actions)
 
 ## Manuscript description
