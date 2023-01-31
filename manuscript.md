@@ -5,7 +5,7 @@ keywords:
 - Neurosciences
 - Art
 lang: fr-FR
-date-meta: '2023-01-30'
+date-meta: '2023-01-31'
 author-meta:
 - Laurent U Perrinet
 header-includes: |
@@ -19,11 +19,11 @@ header-includes: |
   <meta name="citation_title" content="Formes &amp; perception" />
   <meta property="og:title" content="Formes &amp; perception" />
   <meta property="twitter:title" content="Formes &amp; perception" />
-  <meta name="dc.date" content="2023-01-30" />
-  <meta name="citation_publication_date" content="2023-01-30" />
-  <meta property="article:published_time" content="2023-01-30" />
-  <meta name="dc.modified" content="2023-01-30T17:31:21+00:00" />
-  <meta property="article:modified_time" content="2023-01-30T17:31:21+00:00" />
+  <meta name="dc.date" content="2023-01-31" />
+  <meta name="citation_publication_date" content="2023-01-31" />
+  <meta property="article:published_time" content="2023-01-31" />
+  <meta name="dc.modified" content="2023-01-31T07:44:49+00:00" />
+  <meta property="article:modified_time" content="2023-01-31T07:44:49+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/5423faa8941a6b579066df9e3e805cc17712a836/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/5423faa8941a6b579066df9e3e805cc17712a836/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/5423faa8941a6b579066df9e3e805cc17712a836/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/94f79acbe5984e5187698bc6288b01afed5d7e1c/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/94f79acbe5984e5187698bc6288b01afed5d7e1c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/94f79acbe5984e5187698bc6288b01afed5d7e1c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,10 +63,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/5423faa8941a6b579066df9e3e805cc17712a836/))
+([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/94f79acbe5984e5187698bc6288b01afed5d7e1c/))
 was automatically generated
-from [laurentperrinet/2023-01-31_formes-et-perception@5423faa](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/5423faa8941a6b579066df9e3e805cc17712a836)
-on 2023-01-30.
+from [laurentperrinet/2023-01-31_formes-et-perception@94f79ac](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/94f79acbe5984e5187698bc6288b01afed5d7e1c)
+on 2023-01-31.
 </em></small>
 
 ## Authors
@@ -78,8 +78,9 @@ on 2023-01-30.
     [0000-0002-9536-010X](https://orcid.org/0000-0002-9536-010X)
     · ![GitHub icon](images/github.svg){.inline_icon}
     [laurentperrinet](https://github.com/laurentperrinet)
-  · ![Mastodon icon](images/mastodon.svg){.inline_icon}
-  [\@laurentperrinet@neuromatch.social](https://neuromatch.social/@laurentperrinet)<br>
+    · ![Mastodon icon](images/mastodon.svg){.inline_icon}
+    [\@laurentperrinet@neuromatch.social](https://neuromatch.social/@laurentperrinet)
+    <br>
   <small>
      Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université
   </small>
@@ -92,11 +93,11 @@ Observer une œuvre d'art permet de révéler la relation intime entre la réali
 
 ## Matière à voir, la neuroscience de la vision
 
-Commençons par imaginer que nous portons notre regard sur un portrait. Notre système nerveux est responsable de notre capacité de voir le monde lumineux qui en résulte. Les photons réflétés sur le portrait et présents dans la gamme de fréquence visible sont alors concentrés par nos yeux pour former une image sur la rétine, cette fine surface qui tapisse le fond de l'œil et qui contient un réseau compact de neurones photosensibles. La rétine transforme cette image en un signal electro-chimique qui entraine une cascade de processus qui permet de séparer différents caractéristiques de la lumière, comme notamment le contraste, la dynamique ou la couleur, pour finalement former une représentation neurale qui est transmise au reste du cerveau grâce au nerf optique.
+Commençons par imaginer que nous portons notre regard sur un portrait. Notre système nerveux est responsable de notre capacité de voir le monde lumineux qui en résulte. Les photons présents dans la gamme de fréquence visible et réflétés sur le portrait sont alors concentrés par nos yeux pour former une image sur la rétine, cette fine surface qui tapisse le fond de l'œil et qui contient un réseau compact de neurones photosensibles. La rétine transforme cette image en un signal electro-chimique qui entraine une cascade de processus qui permet de séparer différents caractéristiques de la lumière, comme notamment le contraste, la dynamique ou la couleur, pour finalement former une représentation neurale qui est transmise au reste du cerveau grâce au nerf optique.
 
-Il est remarquable de constater que cette représentation est contrainte par l'anatomie de l'œil et de la rétine. Ainsi, la densité de neurones est bien plus élevée autour du centre de l'axe visuel de l'œil, où environ la moitié de notre acuité visuelle est concentrée sur une zone équivalente à celle de deux fois la taille de l'ongle du pouce vu le bras étendu. Cette zone, appelée fovea, est principalement composée de photorécepteurs sensibles aux couleurs. En revanche, les photorécepteurs en périphérie de cette zone sont principalement insensibles aux couleurs, mais ont la capacité de répondre rapidement aux variations de luminosité mais aussi de s'adapter à des conditions d'éclairage changeantes. Cette contrainte physiologique explique pourquoi les objets peuvent apparaître monochromatiques sous un clair de lune ou pourquoi nous pouvons plus facilement détecter une étoile si on fixe légèrement à côté de celle-ci. 
+Il est remarquable de constater que cette représentation est fortement contrainte par l'anatomie de l'œil et de la rétine. Ainsi, la densité de neurones est bien plus élevée autour du centre de l'axe visuel de l'œil, où environ la moitié de notre acuité visuelle est concentrée sur une zone équivalente à celle de deux fois la taille de l'ongle du pouce vu le bras étendu. Cette zone, appelée fovea, est principalement composée de photorécepteurs sensibles aux couleurs. En revanche, les photorécepteurs en périphérie de cette zone sont principalement insensibles aux couleurs, mais ont la capacité de répondre rapidement aux variations de luminosité, mais aussi de s'adapter à des conditions d'éclairage changeantes. Cette contrainte physiologique explique pourquoi les objets peuvent apparaître monochromatiques sous un clair de lune ou pourquoi nous pouvons plus facilement détecter une étoile si on fixe légèrement à côté de celle-ci. 
 
-Cette représentation de l'image est ensuite relayée au reste du cerveau, notamment sur les aires visuelles situées sur sa surface, le cortex. Cela se produit grâce à une série de processus qui affine progressivement les caractéristiques visuelles. En premier, l'information de nos deux yeux converge pour former une représentation binoculaire qui va permettre l'extraction de caractéristiques locales basiques : orientation locale des contours, disparité entre les deux yeux, contrastes de couleur, ... Conservant l'arangement rétinotopique, la motié de la surface de ces aires traite la zone de la fovea.  Depuis cette représentation, des aires spécialisées vont extraire des conjonctions entre ces caracteristiques pour enfin obtenir des indices de plus haut niveau, comme identifier les parties qui constituent le portrait et ensuite déchiffrer l'expression sur l'image du visage.
+Cette représentation de l'image est ensuite relayée au reste du cerveau, notamment sur les aires visuelles situées sur sa surface, le cortex. Conservant l'arangement rétinotopique, la motié de la surface de chacune de ces aires traite la zone de la fovea. Dans ces aires, une série de processus affine progressivement les caractéristiques visuelles. En premier, l'information de nos deux yeux converge pour former une représentation binoculaire qui va permettre l'extraction de caractéristiques locales basiques : orientation locale des contours, disparité entre les deux yeux, contrastes de couleur, ...  Depuis cette représentation, des aires spécialisées vont extraire des conjonctions entre ces caracteristiques pour enfin obtenir des indices de plus haut niveau, comme identifier les parties qui constituent le portrait et ensuite déchiffrer l'expression sur l'image du visage.
 
 ![**Trames** [(Etienne Rey, 2018)](https://ondesparalleles.org/projets/instabilite-%C2%BD-noir-blanc-jaune/). Le projet est basé sur des principes d’occultations partielles en couches associées à des trames qui font émerger une dimension immatérielle et instable.](https://ondesparalleles.org/wp-content/uploads/2020/01/B_2017-07-NBJ_ER_ADAGP.jpg "Trames"){#fig:Trames}
 

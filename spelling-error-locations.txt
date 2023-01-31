@@ -127,6 +127,7 @@ content/01.content.md:9:explique
 content/01.content.md:9:facilement
 content/01.content.md:9:fixe
 content/01.content.md:9:fois
+content/01.content.md:9:fortement
 content/01.content.md:9:fovea
 content/01.content.md:9:insensibles
 content/01.content.md:9:l'anatomie
@@ -179,17 +180,19 @@ content/01.content.md:11:binoculaire
 content/01.content.md:11:caracteristiques
 content/01.content.md:11:caractéristiques
 content/01.content.md:11:caractéristiques
-content/01.content.md:11:Cela
 content/01.content.md:11:cerveau
+content/01.content.md:11:ces
 content/01.content.md:11:ces
 content/01.content.md:11:ces
 content/01.content.md:11:cette
 content/01.content.md:11:Cette
+content/01.content.md:11:chacune
 content/01.content.md:11:comme
 content/01.content.md:11:conjonctions
 content/01.content.md:11:Conservant
 content/01.content.md:11:contrastes
 content/01.content.md:11:couleur
+content/01.content.md:11:Dans
 content/01.content.md:11:déchiffrer
 content/01.content.md:11:Depuis
 content/01.content.md:11:des
@@ -206,7 +209,6 @@ content/01.content.md:11:entre
 content/01.content.md:11:entre
 content/01.content.md:11:extraire
 content/01.content.md:11:fovea
-content/01.content.md:11:grâce
 content/01.content.md:11:haut
 content/01.content.md:11:l'arangement
 content/01.content.md:11:l'expression
@@ -220,9 +222,7 @@ content/01.content.md:11:notamment
 content/01.content.md:11:obtenir
 content/01.content.md:11:permettre
 content/01.content.md:11:processus
-content/01.content.md:11:produit
 content/01.content.md:11:progressivement
-content/01.content.md:11:qui
 content/01.content.md:11:qui
 content/01.content.md:11:qui
 content/01.content.md:11:relayée
