@@ -26,7 +26,6 @@ apprendre
 apprivoisant
 approche
 approches
-arangement
 artificielles
 artificiels
 artistique
@@ -71,7 +70,6 @@ capteurs
 caractère
 caractérisé
 caractérisée
-caracteristiques
 caractéristiques
 Cela
 Celle
@@ -83,10 +81,10 @@ cérébral
 certaine
 certaines
 cerveau
-ces
+Ces
 c’est
 cet
-Cette
+cette
 ceux
 chacun
 chacune
@@ -114,7 +112,7 @@ complexité
 composée
 composent
 compréhension
-Comprendre
+comprendre
 concentrée
 conclure
 conduire
@@ -172,7 +170,7 @@ d’enrichir
 densité
 déplaçant
 Depuis
-des
+Des
 dès
 d’Etienne
 deux
@@ -186,7 +184,7 @@ difficile
 d’initiative
 d’inspiration
 d’instabilité
-d’intéret
+d’intérêt
 d’introduire
 discret
 disparaît
@@ -219,12 +217,12 @@ effet
 efficace
 également
 Élasticité
-electro
+électro
 élémentaires
 éléments
 élevée
 Elle
-Elles
+elles
 éloignés
 émergé
 émerger
@@ -287,7 +285,7 @@ formées
 forment
 formes
 fortement
-fovea
+fovéa
 fragmentant
 fréquence
 gamme
@@ -369,7 +367,7 @@ l’espèce
 leur
 leurs
 levait
-l’évolution
+L’évolution
 levons
 l’expérience
 l’extraction
@@ -377,7 +375,6 @@ l’habitude
 ligne
 lignes
 l’image
-l’imager
 limité
 limites
 l’importance
@@ -389,7 +386,7 @@ L’observation
 localiser
 locaux
 l’œil
-L’œuvre
+l’œuvre
 l’on
 l’organisation
 l’orientation
@@ -426,7 +423,6 @@ mondes
 monolithes
 montre
 mori
-motié
 mouvement
 mouvements
 naturelles
@@ -444,7 +440,7 @@ nombre
 nombreux
 n’ont
 notamment
-Notre
+notre
 nourrit
 nouveau
 nouvelle
@@ -463,11 +459,11 @@ omis
 opposés
 optique
 organisées
-originiale
+originale
 ou
 où
 outils
-parallele
+parallèle
 Parfois
 particulier
 partielles
@@ -502,7 +498,6 @@ plongé
 plongées
 plupart
 portons
-possibls
 pourquoi
 pourrait
 poussée
@@ -548,7 +543,7 @@ qu’on
 qu’un
 qu’une
 radicalement
-rapidement
+Rapidement
 rapides
 réagir
 réalité
@@ -557,8 +552,9 @@ recevons
 rectiligne
 redéfinir
 réel
+réels
 reflet
-réflétés
+reflétés
 regarder
 régit
 règles
@@ -588,16 +584,16 @@ représenter
 reproduire
 répulsion
 réseau
-reserrée
 réservé
 résonance
 résoudre
 responsable
 ressentir
+resserrée
 reste
 restent
 résulte
-Résumé
+résumé
 retardée
 rétine
 Retinotopie
@@ -607,7 +603,6 @@ Retinotopy
 revanche
 Rey
 rhythmique
-rithmes
 rocher
 rôle
 rythmes
@@ -621,7 +616,7 @@ scénario
 scène
 scientifique
 seconde
-selectifs
+sélectifs
 selon
 semble
 semblent
@@ -682,7 +677,7 @@ traite
 traitée
 traitement
 Trame
-Trames
+trames
 transformaient
 transforme
 transforment
@@ -712,7 +707,7 @@ voiles
 Voir
 voix
 vont
-vraissemblance
+vraisemblance
 vu
 vue
 Wendling
