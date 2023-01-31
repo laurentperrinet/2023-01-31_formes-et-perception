@@ -1,10 +1,10 @@
-# Automated scholarly manuscripts on GitHub
+# Formes & perception - un voyage entre Art & sciences
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
-[![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/)
-[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf)
-[![DOCX Manuscript](https://img.shields.io/badge/manuscript-DOCX-blue.svg)](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.docx)
+[![Manuscrit en ligne](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/)
+[![Manuscrit en PDF](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf)
+[![Manuscrit en DOCX](https://img.shields.io/badge/manuscript-DOCX-blue.svg)](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.docx)
 [![GitHub Actions Status](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/workflows/Manubot/badge.svg)](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/actions)
 
 ## Manuscript description
