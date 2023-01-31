@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-31" />
   <meta name="citation_publication_date" content="2023-01-31" />
   <meta property="article:published_time" content="2023-01-31" />
-  <meta name="dc.modified" content="2023-01-31T16:26:39+00:00" />
-  <meta property="article:modified_time" content="2023-01-31T16:26:39+00:00" />
+  <meta name="dc.modified" content="2023-01-31T23:31:15+00:00" />
+  <meta property="article:modified_time" content="2023-01-31T23:31:15+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/28cbc42b3802d542ffec3fe8731a3a317437245e/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/28cbc42b3802d542ffec3fe8731a3a317437245e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/28cbc42b3802d542ffec3fe8731a3a317437245e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/3435f2f5312f011c31d051a7e0e44c8452088037/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/3435f2f5312f011c31d051a7e0e44c8452088037/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/3435f2f5312f011c31d051a7e0e44c8452088037/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -62,9 +62,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/28cbc42b3802d542ffec3fe8731a3a317437245e/))
+([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/3435f2f5312f011c31d051a7e0e44c8452088037/))
 was automatically generated
-from [laurentperrinet/2023-01-31_formes-et-perception@28cbc42](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/28cbc42b3802d542ffec3fe8731a3a317437245e)
+from [laurentperrinet/2023-01-31_formes-et-perception@3435f2f](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/3435f2f5312f011c31d051a7e0e44c8452088037)
 on 2023-01-31.
 </em></small>
 
@@ -93,7 +93,7 @@ Observer une œuvre d'art peut nous permettre de comprendre la relation intime e
 
 Commençons par imaginer que nous portons notre regard sur un portrait. Notre système nerveux est responsable de notre capacité de voir le monde lumineux qui en résulte. Les photons présents dans la gamme de fréquence visible et reflétés sur le portrait sont alors focalisés par nos yeux pour former une image sur la rétine. Cette fine surface qui tapisse le fond de l'œil contient un réseau compact de neurones qui transforment cette image en un signal électro-chimique. Celui-ci entraine une cascade de processus qui va conduire à séparer différents caractéristiques de la lumière, comme notamment le contraste, la dynamique ou la couleur, pour finalement former une représentation neurale qui sera transmise au reste du cerveau par le nerf optique.
 
-![**Retinotopie.**  Une image (extrait du tableau [« Les ambassadeurs » de Hans Holbein le Jeune](https://fr.wikipedia.org/wiki/Les_Ambassadeurs)) peut être représentée sur une grille régulière représentée par des lignes verticales (en rouge) et horizontales (en bleu). La rétinotopie transforme cette grille, et en particulier la zone représentant la fovéa est sur-représentée. Appliquée à la l'image originale du portrait, l'image est fortement déformée et représente plus finalement les parties sous l'axe de vue (ici la bouche).](images/retinotopy.png "Retinotopy"){#fig:Retinotopy}
+![**Retinotopie.**  Une image (extrait du tableau [« Les ambassadeurs » de Hans Holbein le Jeune](https://fr.wikipedia.org/wiki/Les_Ambassadeurs)) peut être représentée sur une grille régulière représentée par des lignes verticales (en rouge) et horizontales (en bleu). La rétinotopie transforme cette grille, et en particulier la zone représentant la fovéa est sur-représentée (en gris). Appliquée à la l'image originale du portrait, l'image est fortement déformée et représente plus finalement les parties sous l'axe de vue (ici la bouche).](images/retinotopy.png "Retinotopy"){#fig:Retinotopy}
 
 Il est remarquable de constater que cette représentation est fortement contrainte par l'anatomie de l'œil et de la rétine (Figure @fig:Retinotopy). Par exemple, la densité de neurones est bien plus élevée autour du centre de l'axe visuel, où environ la moitié de notre acuité visuelle est concentrée. Cette zone, appelée fovéa, est principalement composée de photorécepteurs sensibles aux couleurs. En revanche, les photorécepteurs en périphérie de cette zone sont principalement insensibles aux couleurs, mais ont la capacité de répondre plus rapidement aux variations de luminosité, mais aussi de s'adapter à des conditions d'éclairage changeantes. Cette contrainte physiologique explique pourquoi les objets peuvent apparaître en nuances de gris sous un clair de lune ou pourquoi nous pouvons plus facilement distinguer une étoile feinte en fixant légèrement à côté d'elle. 
 
