@@ -44,7 +44,7 @@ avancée
 avancées
 avant
 avantage
-Avec
+avec
 aves
 avoir
 avons
@@ -81,17 +81,17 @@ cérébral
 certaine
 certaines
 cerveau
-ces
+Ces
 c’est
 cet
-cette
+Cette
 ceux
 chacun
 chacune
 changeantes
 changements
 chaotique
-Chaque
+chaque
 cherchent
 chimique
 choisie
@@ -221,7 +221,7 @@ efficace
 élémentaires
 éléments
 élevée
-elle
+Elle
 elles
 éloignés
 émergé
@@ -367,7 +367,7 @@ l’espèce
 leur
 leurs
 levait
-L’évolution
+l’évolution
 levons
 l’expérience
 l’extraction
@@ -397,7 +397,7 @@ luminosité
 lune
 macroscopique
 maintenant
-mais
+Mais
 manière
 manipulant
 manipule
@@ -431,7 +431,7 @@ nerveux
 n’est
 neurale
 neurones
-neurosciences
+Neurosciences
 n’existent
 nez
 niveau
@@ -593,7 +593,7 @@ resserrée
 reste
 restent
 résulte
-Résumé
+résumé
 retardée
 rétine
 Retinotopie
@@ -677,7 +677,7 @@ traite
 traitée
 traitement
 Trame
-trames
+Trames
 transformaient
 transforme
 transforment
@@ -704,7 +704,7 @@ visuels
 vitesse
 vivants
 voiles
-Voir
+voir
 voix
 vont
 vraisemblance

@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-31" />
   <meta name="citation_publication_date" content="2023-01-31" />
   <meta property="article:published_time" content="2023-01-31" />
-  <meta name="dc.modified" content="2023-01-31T23:31:15+00:00" />
-  <meta property="article:modified_time" content="2023-01-31T23:31:15+00:00" />
+  <meta name="dc.modified" content="2023-01-31T23:34:32+00:00" />
+  <meta property="article:modified_time" content="2023-01-31T23:34:32+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/3435f2f5312f011c31d051a7e0e44c8452088037/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/3435f2f5312f011c31d051a7e0e44c8452088037/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/3435f2f5312f011c31d051a7e0e44c8452088037/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/8c2feaf65edfffb406cb25ef8d9cbd65991dc6d2/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/8c2feaf65edfffb406cb25ef8d9cbd65991dc6d2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/8c2feaf65edfffb406cb25ef8d9cbd65991dc6d2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -62,9 +62,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/3435f2f5312f011c31d051a7e0e44c8452088037/))
+([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/8c2feaf65edfffb406cb25ef8d9cbd65991dc6d2/))
 was automatically generated
-from [laurentperrinet/2023-01-31_formes-et-perception@3435f2f](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/3435f2f5312f011c31d051a7e0e44c8452088037)
+from [laurentperrinet/2023-01-31_formes-et-perception@8c2feaf](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/8c2feaf65edfffb406cb25ef8d9cbd65991dc6d2)
 on 2023-01-31.
 </em></small>
 
