@@ -81,17 +81,17 @@ cérébral
 certaine
 certaines
 cerveau
-Ces
+ces
 c’est
 cet
-cette
+Cette
 ceux
 chacun
 chacune
 changeantes
 changements
 chaotique
-Chaque
+chaque
 cherchent
 chimique
 choisie
@@ -112,7 +112,7 @@ complexité
 composée
 composent
 compréhension
-comprendre
+Comprendre
 concentrée
 conclure
 conduire
@@ -147,7 +147,7 @@ critères
 d’activité
 D’aire
 d’Aix
-Dans
+dans
 d’apprentissage
 d’arbres
 d’art
@@ -170,7 +170,7 @@ d’enrichir
 densité
 déplaçant
 Depuis
-Des
+des
 dès
 d’Etienne
 deux
@@ -222,7 +222,7 @@ efficace
 éléments
 élevée
 Elle
-elles
+Elles
 éloignés
 émergé
 émerger
@@ -431,7 +431,7 @@ nerveux
 n’est
 neurale
 neurones
-Neurosciences
+neurosciences
 n’existent
 nez
 niveau
@@ -543,7 +543,7 @@ qu’on
 qu’un
 qu’une
 radicalement
-Rapidement
+rapidement
 rapides
 réagir
 réalité
@@ -593,7 +593,7 @@ resserrée
 reste
 restent
 résulte
-résumé
+Résumé
 retardée
 rétine
 Retinotopie
@@ -677,7 +677,7 @@ traite
 traitée
 traitement
 Trame
-trames
+Trames
 transformaient
 transforme
 transforment
@@ -685,7 +685,7 @@ transmise
 transparentes
 travers
 Tropique
-une
+Une
 Université
 utilisé
 utiliser
@@ -704,7 +704,7 @@ visuels
 vitesse
 vivants
 voiles
-Voir
+voir
 voix
 vont
 vraisemblance
