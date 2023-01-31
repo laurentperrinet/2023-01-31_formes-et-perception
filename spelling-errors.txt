@@ -44,7 +44,7 @@ avancée
 avancées
 avant
 avantage
-avec
+Avec
 aves
 avoir
 avons
@@ -81,17 +81,17 @@ cérébral
 certaine
 certaines
 cerveau
-ces
+Ces
 c’est
 cet
-Cette
+cette
 ceux
 chacun
 chacune
 changeantes
 changements
 chaotique
-chaque
+Chaque
 cherchent
 chimique
 choisie
@@ -112,7 +112,7 @@ complexité
 composée
 composent
 compréhension
-Comprendre
+comprendre
 concentrée
 conclure
 conduire
@@ -221,8 +221,8 @@ efficace
 élémentaires
 éléments
 élevée
-Elle
-Elles
+elle
+elles
 éloignés
 émergé
 émerger
@@ -397,7 +397,7 @@ luminosité
 lune
 macroscopique
 maintenant
-Mais
+mais
 manière
 manipulant
 manipule
@@ -593,7 +593,7 @@ resserrée
 reste
 restent
 résulte
-Résumé
+résumé
 retardée
 rétine
 Retinotopie
