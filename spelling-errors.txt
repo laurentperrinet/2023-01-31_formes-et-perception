@@ -21,6 +21,7 @@ apparaître
 apparence
 apparente
 appelée
+Appliquée
 apprendre
 apprivoisant
 approche
@@ -55,6 +56,7 @@ basiques
 bien
 billes
 binoculaire
+bleu
 bords
 bouche
 bouger
@@ -84,7 +86,7 @@ cerveau
 ces
 c’est
 cet
-cette
+Cette
 ceux
 chacun
 chacune
@@ -170,7 +172,7 @@ d’enrichir
 densité
 déplaçant
 Depuis
-Des
+des
 dès
 d’Etienne
 deux
@@ -221,7 +223,7 @@ electro
 élémentaires
 éléments
 élevée
-elle
+Elle
 Elles
 éloignés
 émergé
@@ -259,6 +261,7 @@ exprimée
 exprimer
 extérieur
 extraire
+extrait
 facilement
 façon
 facteur
@@ -302,6 +305,7 @@ hasard
 haut
 hexagonale
 hommage
+horizontales
 humain
 humaine
 hypothèses
@@ -371,7 +375,9 @@ l’expérience
 l’extraction
 l’habitude
 ligne
+lignes
 l’image
+l’imager
 limité
 limites
 l’importance
@@ -383,7 +389,7 @@ L’observation
 localiser
 locaux
 l’œil
-l’œuvre
+L’œuvre
 l’on
 l’organisation
 l’orientation
@@ -394,7 +400,7 @@ luminosité
 lune
 macroscopique
 maintenant
-mais
+Mais
 manière
 manipulant
 manipule
@@ -457,6 +463,7 @@ omis
 opposés
 optique
 organisées
+originiale
 ou
 où
 outils
@@ -541,7 +548,7 @@ qu’on
 qu’un
 qu’une
 radicalement
-Rapidement
+rapidement
 rapides
 réagir
 réalité
@@ -557,6 +564,7 @@ régit
 règles
 regrouper
 régularités
+régulière
 relayée
 relie
 relier
@@ -571,9 +579,11 @@ rentrer
 repère
 répétitions
 répondre
+représentant
 représentation
 représente
 représenté
+représentée
 représenter
 reproduire
 répulsion
@@ -587,10 +597,13 @@ ressentir
 reste
 restent
 résulte
-résumé
+Résumé
 retardée
 rétine
+Retinotopie
+rétinotopie
 rétinotopique
+Retinotopy
 revanche
 Rey
 rhythmique
@@ -669,20 +682,22 @@ traite
 traitée
 traitement
 Trame
-trames
+Trames
 transformaient
+transforme
 transforment
 transmise
 transparentes
 travers
 Tropique
-Une
+une
 Université
 utilisé
 utiliser
 utilisés
 Vasarely
 verticale
+verticales
 vidéoprojecteurs
 vidéos
 vient
@@ -694,7 +709,7 @@ visuels
 vitesse
 vivants
 voiles
-voir
+Voir
 voix
 vont
 vraissemblance
