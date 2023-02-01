@@ -81,7 +81,7 @@ cérébral
 certaine
 certaines
 cerveau
-ces
+Ces
 c’est
 cet
 cette
@@ -280,7 +280,7 @@ fois
 fonction
 fondamental
 fondamentale
-fondation
+Fondation
 formaient
 forme
 formée
@@ -371,7 +371,7 @@ l’espèce
 leur
 leurs
 levait
-l’évolution
+L’évolution
 levons
 l’expérience
 l’extraction
@@ -390,7 +390,7 @@ L’observation
 localiser
 locaux
 l’œil
-L’œuvre
+l’œuvre
 l’on
 l’organisation
 l’orientation
@@ -548,7 +548,7 @@ qu’on
 qu’un
 qu’une
 radicalement
-rapidement
+Rapidement
 rapides
 réagir
 réalité
@@ -598,7 +598,7 @@ resserrée
 reste
 restent
 résulte
-Résumé
+résumé
 retardée
 rétine
 Retinotopie
