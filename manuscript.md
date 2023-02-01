@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-01" />
   <meta name="citation_publication_date" content="2023-02-01" />
   <meta property="article:published_time" content="2023-02-01" />
-  <meta name="dc.modified" content="2023-02-01T11:29:32+00:00" />
-  <meta property="article:modified_time" content="2023-02-01T11:29:32+00:00" />
+  <meta name="dc.modified" content="2023-02-01T11:33:59+00:00" />
+  <meta property="article:modified_time" content="2023-02-01T11:33:59+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/3bb2ca6d556b1a4b389dd05e340f53d049b7dedb/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/3bb2ca6d556b1a4b389dd05e340f53d049b7dedb/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/3bb2ca6d556b1a4b389dd05e340f53d049b7dedb/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/97c0c4d73d8cd49f9b27f831dea8fcff2c6957ea/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/97c0c4d73d8cd49f9b27f831dea8fcff2c6957ea/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/97c0c4d73d8cd49f9b27f831dea8fcff2c6957ea/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -62,27 +62,36 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/3bb2ca6d556b1a4b389dd05e340f53d049b7dedb/))
+([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/97c0c4d73d8cd49f9b27f831dea8fcff2c6957ea/))
 was automatically generated
-from [laurentperrinet/2023-01-31_formes-et-perception@3bb2ca6](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/3bb2ca6d556b1a4b389dd05e340f53d049b7dedb)
-on 2023-02-01.
+from [laurentperrinet/2023-01-31_formes-et-perception@97c0c4d](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/97c0c4d73d8cd49f9b27f831dea8fcff2c6957ea)
+on February 1, 2023.
 </em></small>
+
+
 
 ## Authors
 
 
 
-+ **Laurent U Perrinet**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
++ **Laurent U Perrinet**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0002-9536-010X](https://orcid.org/0000-0002-9536-010X)
-    · ![GitHub icon](images/github.svg){.inline_icon}
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [laurentperrinet](https://github.com/laurentperrinet)
-  · ![Mastodon icon](images/mastodon.svg){.inline_icon}
-  [\@laurentperrinet@neuromatch.social](https://neuromatch.social/@laurentperrinet)<br>
+    · ![Mastodon icon](images/mastodon.svg){.inline_icon}
+    [\@laurentperrinet@neuromatch.social](https://neuromatch.social/@laurentperrinet)
+    <br>
   <small>
      Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université
   </small>
 
+
+::: {#correspondence}
+✉ — Correspondence possible via [GitHub Issues](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/issues)
+
+:::
 
 
 ## Résumé {.page_break_before}
