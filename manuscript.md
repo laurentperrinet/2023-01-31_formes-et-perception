@@ -5,7 +5,7 @@ keywords:
 - Neurosciences
 - Art
 lang: fr-FR
-date-meta: '2023-02-01'
+date-meta: '2023-02-02'
 author-meta:
 - Laurent U Perrinet
 header-includes: |
@@ -19,11 +19,11 @@ header-includes: |
   <meta name="citation_title" content="Formes &amp; perception" />
   <meta property="og:title" content="Formes &amp; perception" />
   <meta property="twitter:title" content="Formes &amp; perception" />
-  <meta name="dc.date" content="2023-02-01" />
-  <meta name="citation_publication_date" content="2023-02-01" />
-  <meta property="article:published_time" content="2023-02-01" />
-  <meta name="dc.modified" content="2023-02-01T11:35:48+00:00" />
-  <meta property="article:modified_time" content="2023-02-01T11:35:48+00:00" />
+  <meta name="dc.date" content="2023-02-02" />
+  <meta name="citation_publication_date" content="2023-02-02" />
+  <meta property="article:published_time" content="2023-02-02" />
+  <meta name="dc.modified" content="2023-02-02T17:24:31+00:00" />
+  <meta property="article:modified_time" content="2023-02-02T17:24:31+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/5baab42594837fdb511679fab79f3cea61cc48cf/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/5baab42594837fdb511679fab79f3cea61cc48cf/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/5baab42594837fdb511679fab79f3cea61cc48cf/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/f3fec4faaed050995c8441fc280bbfe97bf31484/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/f3fec4faaed050995c8441fc280bbfe97bf31484/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/f3fec4faaed050995c8441fc280bbfe97bf31484/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -62,10 +62,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/5baab42594837fdb511679fab79f3cea61cc48cf/))
+([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/f3fec4faaed050995c8441fc280bbfe97bf31484/))
 was automatically generated
-from [laurentperrinet/2023-01-31_formes-et-perception@5baab42](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/5baab42594837fdb511679fab79f3cea61cc48cf)
-on February 1, 2023.
+from [laurentperrinet/2023-01-31_formes-et-perception@f3fec4f](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/f3fec4faaed050995c8441fc280bbfe97bf31484)
+on February 2, 2023.
 </em></small>
 
 
@@ -96,7 +96,7 @@ on February 1, 2023.
 
 ## Résumé {.page_break_before}
 
-Observer une œuvre d'art peut nous permettre de comprendre la relation intime entre la réalité et la façon dont nous la percevons. Les récentes avancées en neurosciences nous permettent d'en apprendre davantage sur cette question fondamentale.
+Observer une œuvre d'art peut nous permettre de comprendre la relation intime entre la réalité et la façon dont nous la percevons. Les récentes avancées en neurosciences nous permettent d'en apprendre davantage sur cette relation fondamentale entre externe et intime.
 
 ## Matière à voir, la neuroscience de la vision
 
@@ -106,7 +106,7 @@ Commençons par imaginer que nous portons notre regard sur un portrait. Notre sy
 
 Il est remarquable de constater que cette représentation est fortement contrainte par l'anatomie de l'œil et de la rétine (Figure @fig:Retinotopy). Par exemple, la densité de neurones est bien plus élevée autour du centre de l'axe visuel, où environ la moitié de notre acuité visuelle est concentrée. Cette zone, appelée fovéa, est principalement composée de photorécepteurs sensibles aux couleurs. En revanche, les photorécepteurs en périphérie de cette zone sont principalement insensibles aux couleurs, mais ont la capacité de répondre plus rapidement aux variations de luminosité, mais aussi de s'adapter à des conditions d'éclairage changeantes. Cette contrainte physiologique explique pourquoi les objets peuvent apparaître en nuances de gris sous un clair de lune ou pourquoi nous pouvons plus facilement distinguer une étoile faiblement brillante en fixant légèrement à côté d'elle. 
 
-Cette représentation de l'image est ensuite relayée au reste du cerveau, notamment sur les aires visuelles situées sur sa surface, le cortex. Ces aires conservent un arrangement rétinotopique, et la moitié de la surface de chacune de ces aires traite la zone de la fovéa. D'aire en aire, une série de processus affine progressivement les caractéristiques visuelles. En premier, l'information de nos deux yeux converge dans le cortex visuel primaire pour former une représentation binoculaire qui va permettre l'extraction de caractéristiques locales basiques : orientation locale des contours, disparité entre les deux yeux, contrastes de couleur, ... Le portrait est alors représenté comme l’activité neurale qui active des neurones sélectifs à des bords contrastés locaux, similaires aux touches d'un peintre sur le tableau. Depuis cette représentation, des aires spécialisées vont extraire des conjonctions entre ces caractéristiques, assembler les différents traits de pinceau pour former par exemple une représentation de la forme du nez et de la bouche du personnage et pour enfin obtenir des indices de plus haut niveau, comme identifier les parties qui constituent le tour du visage et ses parties et ensuite déchiffrer l'émotion exprimée sur l'image du visage.
+Cette représentation de l'image est ensuite relayée au reste du cerveau, notamment sur les aires visuelles situées sur sa surface, le cortex. Ces aires conservent un arrangement sensiblement similaire à celui de la rétine, et notamment, la moitié de la surface de chacune de ces aires traite la zone de la fovéa. D'aire en aire, une série de processus affine progressivement les caractéristiques visuelles. En premier, l'information de nos deux yeux converge dans le cortex visuel primaire pour former une représentation binoculaire qui va permettre l'extraction de caractéristiques locales basiques : orientation locale des contours, disparité entre les deux yeux, contrastes de couleur, ... Le portrait est alors représenté comme l’activité neurale qui active des neurones sélectifs à des bords contrastés locaux, similaires aux touches d'un peintre sur le tableau. Depuis cette représentation, des aires spécialisées vont extraire des conjonctions entre ces caractéristiques, assembler les différents traits de pinceau pour former par exemple une représentation de la forme du nez et de la bouche du personnage et pour enfin obtenir des indices de plus haut niveau, comme identifier les parties qui constituent le tour du visage et ses parties et ensuite déchiffrer l'émotion exprimée sur l'image du visage.
  
 ![**Trames Instabilité** [(Etienne Rey, 2018)](https://ondesparalleles.org/projets/instabilite-%C2%BD-noir-blanc-jaune/). Le projet est basé sur des principes d’occultations partielles en couches associées à des trames qui font émerger une dimension immatérielle et instable.](https://ondesparalleles.org/wp-content/uploads/2020/01/B_2017-07-NBJ_ER_ADAGP.jpg "Trames"){#fig:Trames}
 
@@ -142,6 +142,6 @@ Illustrons ce point grâce à « Tropique ». « Tropique » est une installatio
 
 Dans ce genre d'initiative artistique, la manipulation des formes et des perceptions met en lumière l'importance de la créativité. Avec l'avancement des intelligences artificielles formées à partir de grandes bases de données sensorielles et d'apprentissage par renforcement, elles peuvent maintenant avoir des conversations naturelles et générer du son, des images ou des vidéos. Cependant, notre jugement critique reste fondamental pour distinguer ce qui est créatif. Les agents artificiels manquent de la capacité d'engagement physique avec le monde visuel, ce qui était un aspect crucial dans l'œuvre "Tropique". Les spectateurs ont pu explorer le monde de la sculpture en se déplaçant physiquement dans l'espace, apprivoisant ainsi un nouveau monde étrangement familier. Rapidement, ils ont pu comprendre les règles et ressentir les émotions générées de manière autonome par l'installation, tantôt rapides et tantôt contemplatives.
 
-## Voir a t-il un sens ?
+## Voir a-t-il un sens ?
 
 Pour conclure, Art et sciences questionnent ce rapport avec des outils différent, mais complémentaires et permettent de redéfinir notre rapport au monde en tant qu'individus et en tant qu'espèce. Nous levons aujourd'hui un voile sur le sens de la vision, sur sa fonction comme synergie entre formes sensorielles et perception. Cette synergie définit notre "cinéma interne" qui, à l'analogue de notre voix interne, définit pour une large part notre identité. 

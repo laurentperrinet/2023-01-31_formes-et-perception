@@ -8,8 +8,11 @@ content/01.content.md:3:davantage
 content/01.content.md:3:d'en
 content/01.content.md:3:dont
 content/01.content.md:3:entre
+content/01.content.md:3:entre
+content/01.content.md:3:externe
 content/01.content.md:3:façon
 content/01.content.md:3:fondamentale
+content/01.content.md:3:intime
 content/01.content.md:3:intime
 content/01.content.md:3:neurosciences
 content/01.content.md:3:percevons
@@ -220,6 +223,7 @@ content/01.content.md:13:bouche
 content/01.content.md:13:caractéristiques
 content/01.content.md:13:caractéristiques
 content/01.content.md:13:caractéristiques
+content/01.content.md:13:celui
 content/01.content.md:13:cerveau
 content/01.content.md:13:ces
 content/01.content.md:13:ces
@@ -273,6 +277,7 @@ content/01.content.md:13:neurones
 content/01.content.md:13:nez
 content/01.content.md:13:niveau
 content/01.content.md:13:notamment
+content/01.content.md:13:notamment
 content/01.content.md:13:obtenir
 content/01.content.md:13:peintre
 content/01.content.md:13:permettre
@@ -291,10 +296,12 @@ content/01.content.md:13:représentation
 content/01.content.md:13:représentation
 content/01.content.md:13:représenté
 content/01.content.md:13:reste
-content/01.content.md:13:rétinotopique
+content/01.content.md:13:rétine
 content/01.content.md:13:sélectifs
+content/01.content.md:13:sensiblement
 content/01.content.md:13:série
 content/01.content.md:13:ses
+content/01.content.md:13:similaire
 content/01.content.md:13:similaires
 content/01.content.md:13:situées
 content/01.content.md:13:spécialisées

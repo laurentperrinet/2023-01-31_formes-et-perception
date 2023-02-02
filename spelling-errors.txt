@@ -44,7 +44,7 @@ avancée
 avancées
 avant
 avantage
-avec
+Avec
 avoir
 avons
 bas
@@ -75,13 +75,13 @@ Cela
 Celle
 celles
 cellules
-Celui
+celui
 Cependant
 cérébral
 certaine
 certaines
 cerveau
-Ces
+ces
 c’est
 cet
 cette
@@ -91,7 +91,7 @@ chacune
 changeantes
 changements
 chaotique
-Chaque
+chaque
 cherchent
 chimique
 choisie
@@ -112,7 +112,7 @@ complexité
 composée
 composent
 compréhension
-comprendre
+Comprendre
 concentrée
 conclure
 conduire
@@ -171,7 +171,7 @@ d’enrichir
 Densité
 déplaçant
 Depuis
-des
+Des
 dès
 d’Etienne
 deux
@@ -223,7 +223,7 @@ efficace
 élémentaires
 éléments
 élevée
-Elle
+elle
 Elles
 éloignés
 émergé
@@ -260,6 +260,7 @@ explorant
 exprimée
 exprimer
 extérieur
+externe
 extraire
 extraite
 facilement
@@ -280,7 +281,7 @@ fois
 fonction
 fondamental
 fondamentale
-Fondation
+fondation
 formaient
 forme
 formée
@@ -401,7 +402,7 @@ luminosité
 lune
 macroscopique
 maintenant
-mais
+Mais
 manière
 manipulant
 manipule
@@ -435,7 +436,7 @@ nerveux
 n’est
 neurale
 neurones
-neurosciences
+Neurosciences
 n’existent
 nez
 niveau
@@ -444,7 +445,7 @@ nombre
 nombreux
 n’ont
 notamment
-notre
+Notre
 nourrit
 nouveau
 nouvelle
@@ -548,7 +549,7 @@ qu’on
 qu’un
 qu’une
 radicalement
-Rapidement
+rapidement
 rapides
 réagir
 réalité
@@ -626,6 +627,7 @@ selon
 semble
 semblent
 senseurs
+sensiblement
 sensibles
 sensorielles
 séparer
@@ -636,6 +638,7 @@ série
 ses
 seulement
 signifie
+similaire
 similaires
 similarité
 simplement
