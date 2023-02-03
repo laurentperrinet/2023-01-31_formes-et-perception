@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/gh-pages) branch hosts the contents of this directory at <https://laurentperrinet.github.io/2023-01-31_formes-et-perception/>.
-The permalink for this webpage version is <https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/f3fec4faaed050995c8441fc280bbfe97bf31484/>.
+The permalink for this webpage version is <https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/535fb7a31d1ca68857fc223cc4a30c50b6dc9c20/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`f3fec4faaed050995c8441fc280bbfe97bf31484`](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/commit/f3fec4faaed050995c8441fc280bbfe97bf31484).
+[`535fb7a31d1ca68857fc223cc4a30c50b6dc9c20`](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/commit/535fb7a31d1ca68857fc223cc4a30c50b6dc9c20).
