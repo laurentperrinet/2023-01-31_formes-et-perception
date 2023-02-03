@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-03" />
   <meta name="citation_publication_date" content="2023-02-03" />
   <meta property="article:published_time" content="2023-02-03" />
-  <meta name="dc.modified" content="2023-02-03T11:04:25+00:00" />
-  <meta property="article:modified_time" content="2023-02-03T11:04:25+00:00" />
+  <meta name="dc.modified" content="2023-02-03T11:07:41+00:00" />
+  <meta property="article:modified_time" content="2023-02-03T11:07:41+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/535fb7a31d1ca68857fc223cc4a30c50b6dc9c20/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/535fb7a31d1ca68857fc223cc4a30c50b6dc9c20/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/535fb7a31d1ca68857fc223cc4a30c50b6dc9c20/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/ac8ce8a95c4250fecef77f7df2a83d680168e506/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/ac8ce8a95c4250fecef77f7df2a83d680168e506/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/ac8ce8a95c4250fecef77f7df2a83d680168e506/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -62,9 +62,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/535fb7a31d1ca68857fc223cc4a30c50b6dc9c20/))
+([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/ac8ce8a95c4250fecef77f7df2a83d680168e506/))
 was automatically generated
-from [laurentperrinet/2023-01-31_formes-et-perception@535fb7a](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/535fb7a31d1ca68857fc223cc4a30c50b6dc9c20)
+from [laurentperrinet/2023-01-31_formes-et-perception@ac8ce8a](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/ac8ce8a95c4250fecef77f7df2a83d680168e506)
 on February 3, 2023.
 </em></small>
 
@@ -115,7 +115,6 @@ L'œuvre « Trames Instabilité » (Figure @fig:Trames) d'Etienne Rey montre com
 De ce résumé, on pourrait déduire que les processus visuels sont similaires à ceux d'une caméra vidéo : Une lentille focalise l'image sur des senseurs, puis cette information est traitée par d'autres mécanismes, par exemple pour extraire les objets, mesurer leur vitesse ou les identifier. Mais la réalité est bien plus complexe, car comme nous l'avons vu l'image est fortement déformée sur la rétine, et d'autre part le traitement de cette information n'est pas simplement séquentiel. Les aires corticales communiquent dans les deux directions, de telle sorte qu'un objet d'intérêt, par exemple le visage du portrait que nous observions, puisse être rendu plus saillant dans les aires de bas niveau par une aire de haut niveau. De concert, les phénomènes attentifs peuvent conduire à être plus alerte pour certaines caractéristiques a priori, comme une couleur ou une zone de l'espace visuel. La plupart de ces mécanismes sont inconscients et fortement éloignés de la stabilité apparente de notre perception visuelle.
 
 <!-- machines stroboscopiques de Duchamp -->
-
 ## Des formes à la perception
 
 Pour comprendre comment la fragmentation de la représentation visuelle dans notre cerveau coexiste avec la stabilité de notre perception du monde, il est important de considérer la fonction de la vision en général. La vision n'est pas simplement un processus passif, mais un échange entre les objets visuels et notre représentation interne à travers la perception. Cela permet de regrouper des éléments de la scène visuelle en se basant sur le principe selon lequel le tout est plus que la somme des parties. Par exemple, les formes peuvent être organisées en fonction des régularités que nous avons l'habitude d'observer dans la nature, telles que les ramifications d'arbres ou la configuration d'une mousse ou d'une craquelure. Les formes dans la nature également forment des répétitions et des rythmes visuels, ainsi qu'une gamme de formes allant d'une apparence douce à chaotique, comme celles d'un nuage dans le ciel. La perception est également caractérisée par la prévalence de symétries, en particulier celles qui sont présentes dans les formes naturelles, comme la symétrie gauche-droite du corps humain. Les artistes cherchent souvent à utiliser cet aspect pour exprimer une certaine harmonie dans leur composition. La perception peut être consciente, même si de nombreux mécanismes restent inconscients. Son interprétation semble unique à un moment donné, et si deux interprétations sont possibles, c'est souvent la plus simple qui est choisie automatiquement. En somme, la perception est le processus qui, en se basant sur notre connaissance des régularités observées dans la nature, nous permet de former une représentation stable du monde qui nous entoure.

@@ -75,23 +75,23 @@ Cela
 Celle
 celles
 cellules
-Celui
+celui
 Cependant
 cérébral
 certaine
 certaines
 cerveau
-Ces
+ces
 c’est
 cet
-Cette
+cette
 ceux
 chacun
 chacune
 changeantes
 changements
 chaotique
-Chaque
+chaque
 cherchent
 chimique
 choisie
@@ -148,7 +148,7 @@ cristallin
 critères
 D’aire
 d’Aix
-Dans
+dans
 d’apprentissage
 d’arbres
 d’art
@@ -168,7 +168,7 @@ d’elle
 d’en
 d’engagement
 d’enrichir
-Densité
+densité
 déplaçant
 Depuis
 Des
@@ -224,7 +224,7 @@ efficace
 éléments
 élevée
 elle
-Elles
+elles
 éloignés
 émergé
 émerger
@@ -372,7 +372,7 @@ l’espèce
 leur
 leurs
 levait
-L’évolution
+l’évolution
 levons
 l’expérience
 l’extraction
@@ -402,7 +402,7 @@ luminosité
 lune
 macroscopique
 maintenant
-mais
+Mais
 manière
 manipulant
 manipule
@@ -436,7 +436,7 @@ nerveux
 n’est
 neurale
 neurones
-Neurosciences
+neurosciences
 n’existent
 nez
 niveau
@@ -549,7 +549,7 @@ qu’on
 qu’un
 qu’une
 radicalement
-rapidement
+Rapidement
 rapides
 réagir
 réalité
@@ -599,7 +599,7 @@ resserrée
 reste
 restent
 résulte
-Résumé
+résumé
 retardée
 rétine
 Retinotopie
@@ -686,7 +686,7 @@ traite
 traitée
 traitement
 Trame
-trames
+Trames
 transformaient
 transforme
 transformé
@@ -695,7 +695,7 @@ transmise
 transparentes
 travers
 Tropique
-Une
+une
 Université
 utilisé
 utiliser
