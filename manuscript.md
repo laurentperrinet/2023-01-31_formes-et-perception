@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-06" />
   <meta name="citation_publication_date" content="2023-02-06" />
   <meta property="article:published_time" content="2023-02-06" />
-  <meta name="dc.modified" content="2023-02-06T14:01:32+00:00" />
-  <meta property="article:modified_time" content="2023-02-06T14:01:32+00:00" />
+  <meta name="dc.modified" content="2023-02-06T14:06:31+00:00" />
+  <meta property="article:modified_time" content="2023-02-06T14:06:31+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/b6fa23c82e32dcceda6291fa11b408bb9573d9ef/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/b6fa23c82e32dcceda6291fa11b408bb9573d9ef/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/b6fa23c82e32dcceda6291fa11b408bb9573d9ef/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/ed24145892bb9e928241d1ced432d773163a354d/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/ed24145892bb9e928241d1ced432d773163a354d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/ed24145892bb9e928241d1ced432d773163a354d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -62,9 +62,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/b6fa23c82e32dcceda6291fa11b408bb9573d9ef/))
+([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/ed24145892bb9e928241d1ced432d773163a354d/))
 was automatically generated
-from [laurentperrinet/2023-01-31_formes-et-perception@b6fa23c](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/b6fa23c82e32dcceda6291fa11b408bb9573d9ef)
+from [laurentperrinet/2023-01-31_formes-et-perception@ed24145](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/ed24145892bb9e928241d1ced432d773163a354d)
 on February 6, 2023.
 </em></small>
 
@@ -143,4 +143,4 @@ Dans ce genre d'initiative artistique, la manipulation des formes et des percept
 
 ## Voir a-t-il un sens ?
 
-Pour conclure, Art et sciences questionnent ce rapport avec des outils différent, mais complémentaires et permettent de redéfinir notre rapport au monde en tant qu'individus et en tant qu'espèce. Nous levons aujourd'hui un voile sur le sens de la vision, sur sa fonction comme synergie entre formes sensorielles et perception. Cette synergie définit notre "cinéma interne" qui, à l'analogue de notre voix interne, définit pour une large part notre identité. 
+Pour conclure, Art et Sciences questionnent ce rapport avec des outils différent mais complémentaires. Ils permettent de redéfinir notre rapport au monde en tant qu'individus et en tant qu'espèce. Nous levons aujourd'hui un voile sur le sens de la vision, sur sa fonction comme synergie entre formes sensorielles et perception. Cette synergie définit notre "cinéma interne" qui, à l'analogue de notre voix interne, définit pour une large part notre identité. 
