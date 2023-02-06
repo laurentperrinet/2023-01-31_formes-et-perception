@@ -75,7 +75,7 @@ Cela
 Celle
 celles
 cellules
-celui
+Celui
 Cependant
 cérébral
 certaine
@@ -91,7 +91,7 @@ chacune
 changeantes
 changements
 chaotique
-chaque
+Chaque
 cherchent
 chimique
 choisie
@@ -112,13 +112,14 @@ complexité
 composée
 composent
 compréhension
-comprendre
+Comprendre
 concentrée
 conclure
 conduire
 conjonctions
 connaissance
 consciente
+conscients
 conservent
 considérée
 considérer
@@ -168,10 +169,10 @@ d’elle
 d’en
 d’engagement
 d’enrichir
-densité
+Densité
 déplaçant
 Depuis
-Des
+des
 dès
 d’Etienne
 deux
@@ -224,7 +225,7 @@ efficace
 éléments
 élevée
 elle
-elles
+Elles
 éloignés
 émergé
 émerger
@@ -260,7 +261,6 @@ explorant
 exprimée
 exprimer
 extérieur
-externe
 extraire
 extraite
 facilement
@@ -281,7 +281,7 @@ fois
 fonction
 fondamental
 fondamentale
-fondation
+Fondation
 formaient
 forme
 formée
@@ -369,6 +369,7 @@ l’environnent
 lequel
 l’espace
 l’espèce
+l’établissement
 leur
 leurs
 levait
@@ -436,7 +437,7 @@ nerveux
 n’est
 neurale
 neurones
-neurosciences
+Neurosciences
 n’existent
 nez
 niveau
@@ -549,7 +550,7 @@ qu’on
 qu’un
 qu’une
 radicalement
-Rapidement
+rapidement
 rapides
 réagir
 réalité
@@ -575,6 +576,7 @@ remarquable
 remettre
 remplacer
 remplie
+rendre
 rendu
 renforcement
 rentrer
@@ -599,7 +601,7 @@ resserrée
 reste
 restent
 résulte
-résumé
+Résumé
 retardée
 rétine
 Retinotopie
@@ -695,7 +697,7 @@ transmise
 transparentes
 travers
 Tropique
-une
+Une
 Université
 utilisé
 utiliser
@@ -716,7 +718,7 @@ visuels
 vitesse
 vivants
 voiles
-voir
+Voir
 voix
 vont
 vraisemblance

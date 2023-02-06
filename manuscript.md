@@ -5,7 +5,7 @@ keywords:
 - Neurosciences
 - Art
 lang: fr-FR
-date-meta: '2023-02-03'
+date-meta: '2023-02-06'
 author-meta:
 - Laurent U Perrinet
 header-includes: |
@@ -19,11 +19,11 @@ header-includes: |
   <meta name="citation_title" content="Formes &amp; perception" />
   <meta property="og:title" content="Formes &amp; perception" />
   <meta property="twitter:title" content="Formes &amp; perception" />
-  <meta name="dc.date" content="2023-02-03" />
-  <meta name="citation_publication_date" content="2023-02-03" />
-  <meta property="article:published_time" content="2023-02-03" />
-  <meta name="dc.modified" content="2023-02-03T11:07:41+00:00" />
-  <meta property="article:modified_time" content="2023-02-03T11:07:41+00:00" />
+  <meta name="dc.date" content="2023-02-06" />
+  <meta name="citation_publication_date" content="2023-02-06" />
+  <meta property="article:published_time" content="2023-02-06" />
+  <meta name="dc.modified" content="2023-02-06T14:01:32+00:00" />
+  <meta property="article:modified_time" content="2023-02-06T14:01:32+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/ac8ce8a95c4250fecef77f7df2a83d680168e506/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/ac8ce8a95c4250fecef77f7df2a83d680168e506/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/ac8ce8a95c4250fecef77f7df2a83d680168e506/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/b6fa23c82e32dcceda6291fa11b408bb9573d9ef/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/b6fa23c82e32dcceda6291fa11b408bb9573d9ef/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/b6fa23c82e32dcceda6291fa11b408bb9573d9ef/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -62,10 +62,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/ac8ce8a95c4250fecef77f7df2a83d680168e506/))
+([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/b6fa23c82e32dcceda6291fa11b408bb9573d9ef/))
 was automatically generated
-from [laurentperrinet/2023-01-31_formes-et-perception@ac8ce8a](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/ac8ce8a95c4250fecef77f7df2a83d680168e506)
-on February 3, 2023.
+from [laurentperrinet/2023-01-31_formes-et-perception@b6fa23c](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/b6fa23c82e32dcceda6291fa11b408bb9573d9ef)
+on February 6, 2023.
 </em></small>
 
 
@@ -96,7 +96,7 @@ on February 3, 2023.
 
 ## Résumé {.page_break_before}
 
-Observer une œuvre d'art peut nous permettre de comprendre la relation intime entre la réalité et la façon dont nous la percevons. Les récentes avancées en neurosciences nous permettent d'en apprendre davantage sur cette relation fondamentale entre externe et intime.
+Observer une œuvre d'art peut nous rendre conscients de la relation intime entre la réalité et la façon dont nous la percevons. Les récentes avancées en neurosciences nous permettent d'en apprendre davantage sur la compréhension du rôle de notre cerveau dans l'établissement de cette relation fondamentale.
 
 ## Matière à voir, la neuroscience de la vision
 
