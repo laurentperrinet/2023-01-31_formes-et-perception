@@ -1,6 +1,7 @@
 accolés
 activé
 acuité
+ADAGP
 affine
 afin
 agissant
@@ -32,7 +33,6 @@ artistique
 associées
 atout
 atteignent
-attentifs
 aujourd’hui
 aussi
 autant
@@ -44,12 +44,12 @@ avancée
 avancées
 avant
 avantage
-avec
+Avec
 avoir
 avons
 bas
 basant
-basé
+basée
 basiques
 bien
 billes
@@ -75,7 +75,7 @@ Cela
 Celle
 celles
 cellules
-Celui
+celui
 Cependant
 cérébral
 certaine
@@ -112,7 +112,7 @@ complexité
 composée
 composent
 compréhension
-comprendre
+Comprendre
 concentrée
 conclure
 conduire
@@ -153,6 +153,7 @@ Dans
 d’apprentissage
 d’arbres
 d’art
+d’attention
 d’attraction
 d’autre
 d’autres
@@ -160,6 +161,7 @@ davantage
 d’eau
 déchiffrer
 d’éclairage
+décrire
 décrite
 déduire
 défi
@@ -168,11 +170,12 @@ déformée
 d’elle
 d’en
 d’engagement
+dénotée
 d’enrichir
 Densité
 déplaçant
 Depuis
-Des
+des
 dès
 d’Etienne
 deux
@@ -273,6 +276,7 @@ faut
 favorise
 fermé
 finalement
+finement
 fixant
 Flou
 focalise
@@ -320,6 +324,7 @@ imaginaires
 imaginer
 immatérielle
 importante
+imprimés
 incluse
 inconscients
 indépendamment
@@ -392,7 +397,7 @@ L’observation
 localiser
 locaux
 l’œil
-l’œuvre
+L’œuvre
 l’on
 l’organisation
 l’orientation
@@ -403,7 +408,7 @@ luminosité
 lune
 macroscopique
 maintenant
-mais
+Mais
 manière
 manipulant
 manipule
@@ -437,7 +442,7 @@ nerveux
 n’est
 neurale
 neurones
-Neurosciences
+neurosciences
 n’existent
 nez
 niveau
@@ -446,7 +451,7 @@ nombre
 nombreux
 n’ont
 notamment
-Notre
+notre
 nourrit
 nouveau
 nouvelle
@@ -470,6 +475,7 @@ originale
 ou
 où
 outils
+papier
 parallèle
 Parfois
 particulier
@@ -533,11 +539,10 @@ produite
 profondeur
 progressivement
 proies
-projet
 projeter
 projettent
 propre
-provoquant
+provoque
 proximité
 puis
 puisse
@@ -588,7 +593,6 @@ représentation
 représente
 représenté
 représentée
-représenter
 reproduire
 répulsion
 réseau
@@ -601,7 +605,6 @@ resserrée
 reste
 restent
 résulte
-Résumé
 retardée
 rétine
 Retinotopie
@@ -637,6 +640,7 @@ séquentiel
 sera
 serait
 série
+sérigraphie
 ses
 seulement
 signifie
@@ -697,7 +701,7 @@ transmise
 transparentes
 travers
 Tropique
-une
+Une
 Université
 utilisé
 utiliser
@@ -710,7 +714,6 @@ vidéo
 vidéoprojecteurs
 vidéos
 vient
-Viktor
 visuel
 visuelle
 visuelles
