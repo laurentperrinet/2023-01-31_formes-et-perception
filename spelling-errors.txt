@@ -44,7 +44,7 @@ avancée
 avancées
 avant
 avantage
-Avec
+avec
 avoir
 avons
 bas
@@ -81,7 +81,7 @@ cérébral
 certaine
 certaines
 cerveau
-Ces
+ces
 c’est
 cet
 cette
@@ -112,7 +112,7 @@ complexité
 composée
 composent
 compréhension
-Comprendre
+comprendre
 concentrée
 conclure
 conduire
@@ -172,7 +172,7 @@ d’en
 d’engagement
 dénotée
 d’enrichir
-Densité
+densité
 déplaçant
 Depuis
 des
@@ -198,6 +198,7 @@ disparité
 disposés
 dispositif
 distinguer
+dite
 dixième
 d’objets
 d’observer
@@ -227,8 +228,8 @@ efficace
 élémentaires
 éléments
 élevée
-elle
-elles
+Elle
+Elles
 éloignés
 émergé
 émerger
@@ -239,7 +240,6 @@ ensuite
 entoure
 entraine
 entre
-entrent
 environ
 espace
 espèce
@@ -319,7 +319,7 @@ ici
 identité
 illuminées
 Illustrons
-ils
+Ils
 imaginaires
 imaginer
 immatérielle
@@ -338,6 +338,7 @@ instable
 Institut
 intègre
 intelligences
+interagissent
 intérieur
 interne
 interprétation
@@ -370,7 +371,6 @@ l’émotion
 lente
 lentille
 l’environnement
-l’environnent
 lequel
 l’espace
 l’espèce
@@ -397,7 +397,7 @@ L’observation
 localiser
 locaux
 l’œil
-L’œuvre
+l’œuvre
 l’on
 l’organisation
 l’orientation
@@ -442,7 +442,7 @@ nerveux
 n’est
 neurale
 neurones
-neurosciences
+Neurosciences
 n’existent
 nez
 niveau
@@ -555,7 +555,7 @@ qu’on
 qu’un
 qu’une
 radicalement
-Rapidement
+rapidement
 rapides
 réagir
 réalité
@@ -659,6 +659,7 @@ sorte
 souligne
 souvent
 spatiale
+spatialement
 spécialisées
 spectateur
 spectateurs
@@ -692,7 +693,7 @@ traite
 traitée
 traitement
 Trame
-trames
+Trames
 transformaient
 transforme
 transformé
@@ -701,7 +702,7 @@ transmise
 transparentes
 travers
 Tropique
-Une
+une
 Université
 utilisé
 utiliser
@@ -721,7 +722,7 @@ visuels
 vitesse
 vivants
 voiles
-voir
+Voir
 voix
 vont
 vraisemblance

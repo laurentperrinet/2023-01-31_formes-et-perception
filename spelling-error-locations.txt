@@ -2,7 +2,6 @@ content/01.content.md:1:apprendre
 content/01.content.md:1:avancées
 content/01.content.md:1:cerveau
 content/01.content.md:1:cette
-content/01.content.md:1:compréhension
 content/01.content.md:1:conscients
 content/01.content.md:1:dans
 content/01.content.md:1:d'art
@@ -184,7 +183,6 @@ content/01.content.md:9:légèrement
 content/01.content.md:9:l'œil
 content/01.content.md:9:luminosité
 content/01.content.md:9:lune
-content/01.content.md:9:mais
 content/01.content.md:9:mais
 content/01.content.md:9:moitié
 content/01.content.md:9:neurones
@@ -370,15 +368,14 @@ content/01.content.md:15:d'instabilité
 content/01.content.md:15:disparaît
 content/01.content.md:15:d'oscillation
 content/01.content.md:15:échelles
-content/01.content.md:15:effet
 content/01.content.md:15:élémentaires
-content/01.content.md:15:entrent
 content/01.content.md:15:Etienne
 content/01.content.md:15:être
 content/01.content.md:15:hexagonale
 content/01.content.md:15:induites
 content/01.content.md:15:instabilité
 content/01.content.md:15:Instabilité
+content/01.content.md:15:interagissent
 content/01.content.md:15:l'anatomie
 content/01.content.md:15:l'arrangement
 content/01.content.md:15:l'art
@@ -403,7 +400,6 @@ content/01.content.md:15:qu’une
 content/01.content.md:15:remplacer
 content/01.content.md:15:rentrer
 content/01.content.md:15:résonance
-content/01.content.md:15:résonance
 content/01.content.md:15:resserrée
 content/01.content.md:15:rétine
 content/01.content.md:15:rétine
@@ -415,6 +411,7 @@ content/01.content.md:15:saisir
 content/01.content.md:15:seconde
 content/01.content.md:15:semblent
 content/01.content.md:15:s'organiser
+content/01.content.md:15:spatialement
 content/01.content.md:15:suggérant
 content/01.content.md:15:suivant
 content/01.content.md:15:superposée
@@ -528,7 +525,7 @@ content/01.content.md:17:une
 content/01.content.md:17:une
 content/01.content.md:17:une
 content/01.content.md:17:une
-content/01.content.md:17:Une
+content/01.content.md:17:une
 content/01.content.md:17:vidéo
 content/01.content.md:17:visuel
 content/01.content.md:17:visuelle
@@ -547,6 +544,7 @@ content/01.content.md:22:basant
 content/01.content.md:22:basant
 content/01.content.md:22:caractérisée
 content/01.content.md:22:Cela
+content/01.content.md:22:Celle
 content/01.content.md:22:celles
 content/01.content.md:22:celles
 content/01.content.md:22:certaine
@@ -763,11 +761,10 @@ content/01.content.md:26:induit
 content/01.content.md:26:informations
 content/01.content.md:26:interpréter
 content/01.content.md:26:largeur
-content/01.content.md:26:l'environnent
+content/01.content.md:26:l'environnement
 content/01.content.md:26:leur
 content/01.content.md:26:l'œuvre
-content/01.content.md:26:monde
-content/01.content.md:26:monde
+content/01.content.md:26:mondes
 content/01.content.md:26:mondes
 content/01.content.md:26:monolithes
 content/01.content.md:26:n'existent
@@ -923,7 +920,6 @@ content/01.content.md:30:visuels
 content/01.content.md:30:visuels
 content/01.content.md:32:alimente
 content/01.content.md:32:ambassadeurs
-content/01.content.md:32:appelée
 content/01.content.md:32:approche
 content/01.content.md:32:approche
 content/01.content.md:32:artistique
@@ -945,6 +941,7 @@ content/01.content.md:32:Dans
 content/01.content.md:32:d'art
 content/01.content.md:32:d'enrichir
 content/01.content.md:32:d'inspiration
+content/01.content.md:32:dite
 content/01.content.md:32:domaine
 content/01.content.md:32:donc
 content/01.content.md:32:d'un
