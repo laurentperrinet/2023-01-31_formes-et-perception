@@ -1048,7 +1048,6 @@ content/01.content.md:36:activé
 content/01.content.md:36:alors
 content/01.content.md:36:approche
 content/01.content.md:36:approches
-content/01.content.md:36:associées
 content/01.content.md:36:atteignent
 content/01.content.md:36:autant
 content/01.content.md:36:avancée
@@ -1062,7 +1061,7 @@ content/01.content.md:36:cerveau
 content/01.content.md:36:cerveau
 content/01.content.md:36:ces
 content/01.content.md:36:cette
-content/01.content.md:36:Cette
+content/01.content.md:36:cette
 content/01.content.md:36:Cette
 content/01.content.md:36:chaque
 content/01.content.md:36:comme
@@ -1092,6 +1091,7 @@ content/01.content.md:36:d'une
 content/01.content.md:36:d'une
 content/01.content.md:36:d'une
 content/01.content.md:36:d'utiliser
+content/01.content.md:36:dynamique
 content/01.content.md:36:émergé
 content/01.content.md:36:environ
 content/01.content.md:36:être
@@ -1115,7 +1115,6 @@ content/01.content.md:36:l'inclure
 content/01.content.md:36:l'organisation
 content/01.content.md:36:l'orientation
 content/01.content.md:36:mathématiques
-content/01.content.md:36:mécanisme
 content/01.content.md:36:mesurer
 content/01.content.md:36:mieux
 content/01.content.md:36:millisecondes
@@ -1135,6 +1134,7 @@ content/01.content.md:36:peut
 content/01.content.md:36:présent
 content/01.content.md:36:priori
 content/01.content.md:36:processus
+content/01.content.md:36:processus
 content/01.content.md:36:produire
 content/01.content.md:36:produire
 content/01.content.md:36:quelques
@@ -1150,10 +1150,10 @@ content/01.content.md:36:représente
 content/01.content.md:36:reproduire
 content/01.content.md:36:rétine
 content/01.content.md:36:saccade
+content/01.content.md:36:s'associent
 content/01.content.md:36:scène
 content/01.content.md:36:seconde
 content/01.content.md:36:soit
-content/01.content.md:36:sont
 content/01.content.md:36:sur
 content/01.content.md:36:survie
 content/01.content.md:36:systèmes
@@ -1177,16 +1177,17 @@ content/01.content.md:36:yeux
 content/01.content.md:38:alors
 content/01.content.md:38:atout
 content/01.content.md:38:aussi
+content/01.content.md:38:avant
 content/01.content.md:38:avantage
 content/01.content.md:38:avec
 content/01.content.md:38:avons
 content/01.content.md:38:avons
 content/01.content.md:38:bouger
 content/01.content.md:38:bouleverse
-content/01.content.md:38:capables
 content/01.content.md:38:capacité
 content/01.content.md:38:capacité
 content/01.content.md:38:Celle
+content/01.content.md:38:cerveau
 content/01.content.md:38:ces
 content/01.content.md:38:Cette
 content/01.content.md:38:changements
@@ -1260,10 +1261,10 @@ content/01.content.md:38:représentation
 content/01.content.md:38:représente
 content/01.content.md:38:retardée
 content/01.content.md:38:rétinotopique
+content/01.content.md:38:s'ajuster
 content/01.content.md:38:sauter
 content/01.content.md:38:signifie
 content/01.content.md:38:situés
-content/01.content.md:38:sommes
 content/01.content.md:38:sommes
 content/01.content.md:38:sont
 content/01.content.md:38:sont
@@ -1281,7 +1282,7 @@ content/01.content.md:40:ADAGP
 content/01.content.md:40:dans
 content/01.content.md:40:dans
 content/01.content.md:40:deux
-content/01.content.md:40:dynamique
+content/01.content.md:40:dynamiques
 content/01.content.md:40:espace
 content/01.content.md:40:Etienne
 content/01.content.md:40:Etienne
@@ -1323,6 +1324,7 @@ content/01.content.md:42:cette
 content/01.content.md:42:Cette
 content/01.content.md:42:Cette
 content/01.content.md:42:chacun
+content/01.content.md:42:chacune
 content/01.content.md:42:chaque
 content/01.content.md:42:Chaque
 content/01.content.md:42:combinés
@@ -1343,6 +1345,7 @@ content/01.content.md:42:Dans
 content/01.content.md:42:d'art
 content/01.content.md:42:d'attraction
 content/01.content.md:42:d'eau
+content/01.content.md:42:derniers
 content/01.content.md:42:des
 content/01.content.md:42:des
 content/01.content.md:42:des
@@ -1358,7 +1361,7 @@ content/01.content.md:42:d'une
 content/01.content.md:42:écrit
 content/01.content.md:42:Elle
 content/01.content.md:42:elles
-content/01.content.md:42:Elles
+content/01.content.md:42:elles
 content/01.content.md:42:enregistré
 content/01.content.md:42:entre
 content/01.content.md:42:espace
@@ -1444,7 +1447,6 @@ content/01.content.md:42:pouvait
 content/01.content.md:42:pré
 content/01.content.md:42:présence
 content/01.content.md:42:présentée
-content/01.content.md:42:produisent
 content/01.content.md:42:produite
 content/01.content.md:42:projettent
 content/01.content.md:42:propre

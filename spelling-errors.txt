@@ -15,7 +15,7 @@ alignements
 alignés
 alimente
 allant
-alors
+Alors
 ambassadeurs
 analogique
 anatomiques
@@ -69,7 +69,6 @@ cachés
 calibrée
 calme
 caméra
-capables
 capacité
 capteurs
 caractère
@@ -78,13 +77,13 @@ caractérisée
 caractéristiques
 Celle
 celles
-celui
+Celui
 Cependant
 cérébral
 certaine
 certaines
 cerveau
-Ces
+ces
 c’est
 cet
 cette
@@ -116,7 +115,7 @@ complexe
 composée
 composent
 compréhension
-comprendre
+Comprendre
 concentrée
 conçu
 conduire
@@ -155,7 +154,7 @@ critères
 d’abord
 D’aire
 d’Aix
-dans
+Dans
 d’apprentissage
 d’arbres
 d’art
@@ -182,10 +181,11 @@ d’en
 d’engagement
 dénotée
 d’enrichir
-Densité
+densité
 déplaçant
 dépourvus
 Depuis
+derniers
 Des
 dès
 d’Etienne
@@ -232,6 +232,7 @@ d’un
 d’une
 d’utiliser
 dynamique
+dynamiques
 échange
 échelles
 écrit
@@ -244,7 +245,7 @@ efficace
 éléments
 élevée
 elle
-Elles
+elles
 éloignés
 émergé
 émerger
@@ -426,7 +427,7 @@ L’observation
 localiser
 locaux
 l’œil
-l’œuvre
+L’œuvre
 l’on
 l’organisation
 l’orientation
@@ -437,7 +438,7 @@ luminosité
 lune
 macroscopique
 maintenant
-Mais
+mais
 manière
 manipulant
 manipule
@@ -566,7 +567,6 @@ procédé
 processus
 produire
 produisait
-produisent
 produite
 profondeur
 progressivement
@@ -656,7 +656,9 @@ saccade
 s’adapter
 saillant
 saisir
+s’ajuster
 salle
+s’associent
 sauter
 scénario
 scène
@@ -738,7 +740,7 @@ transparentes
 travaillant
 tri
 Tropique
-une
+Une
 Université
 utilisé
 utiliser
