@@ -76,17 +76,17 @@ caractère
 caractérisé
 caractérisée
 caractéristiques
-celle
+Celle
 celles
-Celui
+celui
 Cependant
 cérébral
 certaine
 certaines
 cerveau
-Ces
+ces
 c’est
-cet
+Cet
 cette
 ceux
 chacun
@@ -108,7 +108,7 @@ coexiste
 colorés
 combinés
 comme
-commençons
+Commençons
 communiquent
 complémentaires
 complété
@@ -186,7 +186,7 @@ Densité
 déplaçant
 dépourvus
 Depuis
-Des
+des
 dès
 d’Etienne
 deux
@@ -198,6 +198,7 @@ différent
 différentes
 différents
 difficile
+dimensionnelles
 d’incarner
 d’initiative
 d’inspiration
@@ -208,6 +209,7 @@ directement
 discret
 disparaissant
 disparité
+disposé
 disposés
 dispositif
 distinguer
@@ -241,7 +243,7 @@ efficace
 élémentaires
 éléments
 élevée
-elle
+Elle
 Elles
 éloignés
 émergé
@@ -303,7 +305,7 @@ fois
 fonction
 fondamental
 fondamentale
-Fondation
+fondation
 formaient
 forme
 formée
@@ -315,6 +317,7 @@ fragmentant
 fréquence
 gamme
 général
+générale
 génération
 génère
 générées
@@ -384,6 +387,7 @@ laquelle
 largeur
 l’arrangement
 l’art
+L’artiste
 laurentperrinet
 l’avons
 l’axe
@@ -398,7 +402,7 @@ lequel
 l’espace
 l’espèce
 l’établissement
-Leur
+leur
 leurs
 l’évolution
 l’expérience
@@ -414,6 +418,7 @@ l’importance
 l’inclure
 l’information
 l’installation
+l’intermédiaire
 l’introduction
 l’obscurité
 l’observateur
@@ -467,7 +472,7 @@ nerveux
 n’est
 neurale
 neurones
-neurosciences
+Neurosciences
 n’existent
 nez
 niveau
@@ -538,7 +543,6 @@ plongées
 plupart
 portons
 pourquoi
-pourrait
 poussée
 pouvaient
 pouvait
@@ -732,8 +736,9 @@ transforment
 transmise
 transparentes
 travaillant
+tri
 Tropique
-une
+Une
 Université
 utilisé
 utiliser
