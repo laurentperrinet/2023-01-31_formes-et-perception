@@ -1,5 +1,4 @@
 abordent
-accolés
 activé
 acuité
 ADAGP
@@ -15,7 +14,7 @@ alignements
 alignés
 alimente
 allant
-Alors
+alors
 ambassadeurs
 analogique
 anatomiques
@@ -25,6 +24,7 @@ apparente
 appelée
 Appliquée
 apporté
+apporter
 appréciation
 appréciée
 apprécier
@@ -75,7 +75,7 @@ caractère
 caractérisé
 caractérisée
 caractéristiques
-Celle
+celle
 celles
 Celui
 Cependant
@@ -85,7 +85,7 @@ certaines
 cerveau
 ces
 c’est
-cet
+Cet
 cette
 ceux
 chacun
@@ -166,6 +166,7 @@ davantage
 d’eau
 déchiffrer
 d’éclairage
+découverte
 décrire
 décrite
 déduire
@@ -181,7 +182,7 @@ d’en
 d’engagement
 dénotée
 d’enrichir
-densité
+Densité
 déplaçant
 dépourvus
 Depuis
@@ -212,6 +213,7 @@ disparité
 disposé
 disposés
 dispositif
+dissimule
 distinguer
 dite
 dixième
@@ -234,6 +236,7 @@ d’utiliser
 dynamique
 dynamiques
 échange
+échappe
 échelles
 écrit
 effet
@@ -315,7 +318,6 @@ formes
 fortement
 fovéa
 fragmentant
-fréquence
 gamme
 général
 générale
@@ -325,7 +327,6 @@ générées
 générer
 grâce
 grammaire
-grande
 grandes
 habituel
 harmonie
@@ -350,6 +351,7 @@ imprimés
 incluse
 inconscients
 indépendamment
+indépendants
 induit
 induites
 insensibles
@@ -402,10 +404,11 @@ l’environnement
 lequel
 l’espace
 l’espèce
+l’essentiel
 l’établissement
-Leur
+leur
 leurs
-L’évolution
+l’évolution
 l’expérience
 l’extraction
 l’habitude
@@ -451,6 +454,7 @@ mécanisme
 mécanismes
 même
 mentale
+mesurée
 mesurer
 mètres
 microscopiques
@@ -473,7 +477,7 @@ nerveux
 n’est
 neurale
 neurones
-neurosciences
+Neurosciences
 n’existent
 nez
 niveau
@@ -505,6 +509,7 @@ optique
 originale
 ou
 où
+ouvert
 papier
 parallèle
 parfois
@@ -557,7 +562,6 @@ présent
 présenté
 présentée
 présentes
-présents
 prévalence
 primaire
 principalement
@@ -582,7 +586,6 @@ quelque
 quelques
 qu’espèce
 qui
-qu’il
 qu’individus
 qu’on
 qu’un
@@ -593,12 +596,13 @@ rapides
 réagir
 réalité
 récentes
+reconsidérer
 rectiligne
 réel
 réels
 Références
+réfléchis
 reflet
-reflétés
 regarder
 régit
 règles
@@ -617,7 +621,6 @@ remplacer
 rendu
 renforcement
 rentrer
-repenser
 repère
 répétitions
 répondre
@@ -625,7 +628,6 @@ représentant
 représentation
 représente
 représenté
-représentée
 reproduire
 répulsion
 réseau
