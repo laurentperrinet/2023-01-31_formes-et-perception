@@ -86,7 +86,7 @@ certaines
 cerveau
 Ces
 c’est
-Cet
+cet
 cette
 ceux
 chacun
@@ -155,7 +155,7 @@ critères
 d’abord
 D’aire
 d’Aix
-dans
+Dans
 d’apprentissage
 d’arbres
 d’art
@@ -186,7 +186,7 @@ Densité
 déplaçant
 dépourvus
 Depuis
-des
+Des
 dès
 d’Etienne
 deux
@@ -400,7 +400,7 @@ l’espèce
 l’établissement
 Leur
 leurs
-L’évolution
+l’évolution
 l’expérience
 l’extraction
 l’habitude
@@ -432,7 +432,7 @@ luminosité
 lune
 macroscopique
 maintenant
-Mais
+mais
 manière
 manipulant
 manipule
@@ -467,7 +467,7 @@ nerveux
 n’est
 neurale
 neurones
-Neurosciences
+neurosciences
 n’existent
 nez
 niveau
@@ -475,7 +475,7 @@ niveaux
 nombre
 nombreux
 notamment
-Notre
+notre
 nourrit
 nouveau
 nouvelle
@@ -592,6 +592,7 @@ récentes
 rectiligne
 réel
 réels
+Références
 reflet
 reflétés
 regarder
@@ -732,7 +733,7 @@ transmise
 transparentes
 travaillant
 Tropique
-Une
+une
 Université
 utilisé
 utiliser
@@ -752,7 +753,7 @@ visuels
 vitesse
 vivants
 voiles
-Voir
+voir
 voix
 vont
 vraisemblance

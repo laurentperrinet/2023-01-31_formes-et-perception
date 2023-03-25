@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "ISBN": "9782714492647",
+    "URL": "https://books.google.fr/books?id=uH7VDwAAQBAJ",
+    "author": [
+      {
+        "family": "Vasarely",
+        "given": "V."
+      },
+      {
+        "family": "Ferrier",
+        "given": "J. L."
+      },
+      {
+        "family": "Salomon",
+        "given": "P."
+      }
+    ],
+    "id": "1GvEQcShr",
+    "issued": {
+      "date-parts": [
+        [
+          1969
+        ]
+      ]
+    },
+    "publisher": "(Belfond) réédition numérique FeniXX",
+    "title": "Entretiens avec victor vasarely",
+    "type": "book",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.bib\nstandard_id: vasarely1969entretiens"
+  }
+]

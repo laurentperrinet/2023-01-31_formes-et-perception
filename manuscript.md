@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2023-03-25" />
   <meta name="citation_publication_date" content="2023-03-25" />
   <meta property="article:published_time" content="2023-03-25" />
-  <meta name="dc.modified" content="2023-03-25T22:14:23+00:00" />
-  <meta property="article:modified_time" content="2023-03-25T22:14:23+00:00" />
+  <meta name="dc.modified" content="2023-03-25T22:20:07+00:00" />
+  <meta property="article:modified_time" content="2023-03-25T22:20:07+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,16 +39,17 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/0d6ddcbaed19874d34cdf25a7efa5562afb03daa/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/0d6ddcbaed19874d34cdf25a7efa5562afb03daa/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/0d6ddcbaed19874d34cdf25a7efa5562afb03daa/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/823c6527d22c005ac0fb9a81f5706beb325f06ed/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/823c6527d22c005ac0fb9a81f5706beb325f06ed/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/823c6527d22c005ac0fb9a81f5706beb325f06ed/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
   <!-- end Manubot generated metadata -->
-bibliography: []
+bibliography:
+- content/manual-references.bib
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
@@ -62,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/0d6ddcbaed19874d34cdf25a7efa5562afb03daa/))
+([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/823c6527d22c005ac0fb9a81f5706beb325f06ed/))
 was automatically generated
-from [laurentperrinet/2023-01-31_formes-et-perception@0d6ddcb](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/0d6ddcbaed19874d34cdf25a7efa5562afb03daa)
+from [laurentperrinet/2023-01-31_formes-et-perception@823c652](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/823c6527d22c005ac0fb9a81f5706beb325f06ed)
 on March 25, 2023.
 </em></small>
 
@@ -142,3 +143,8 @@ Dans ce nouveau genre d'initiative artistique, la manipulation des formes et des
 ## Voir a-t-il un sens ?
 
 En somme, Art et Sciences abordent cette relation avec des approches différentes, mais intimement complémentaires. Ensemble, ils permettent de repenser notre relation avec le monde en tant qu'individus et en tant qu'espèce, remettant en question la spécificité réservée à l'humain de pouvoir apprécier les œuvres d'art. Aujourd'hui, nous commençons à comprendre le rôle de la vision et sa fonction dans la synergie entre les formes sensorielles et la perception. Cette synergie définit notre propre "cinéma interne" qui, à l'analogue de notre voix interne, définit pour une large part notre identité et qui, pour une grande partie, reste un mystère qu'il nous reste à explorer.
+
+## Références {.page_break_before}
+
+<!-- Explicitly insert bibliography here -->
+<div id="refs"></div>
