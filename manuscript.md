@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2023-03-25" />
   <meta name="citation_publication_date" content="2023-03-25" />
   <meta property="article:published_time" content="2023-03-25" />
-  <meta name="dc.modified" content="2023-03-25T22:41:31+00:00" />
-  <meta property="article:modified_time" content="2023-03-25T22:41:31+00:00" />
+  <meta name="dc.modified" content="2023-03-25T22:43:34+00:00" />
+  <meta property="article:modified_time" content="2023-03-25T22:43:34+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/0770c7dbc75c9c6e08a145f0e068eecc768e4b9a/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/0770c7dbc75c9c6e08a145f0e068eecc768e4b9a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/0770c7dbc75c9c6e08a145f0e068eecc768e4b9a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/5a9861458808f19f1e11a3cd80e9123630047211/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/5a9861458808f19f1e11a3cd80e9123630047211/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/5a9861458808f19f1e11a3cd80e9123630047211/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/0770c7dbc75c9c6e08a145f0e068eecc768e4b9a/))
+([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/5a9861458808f19f1e11a3cd80e9123630047211/))
 was automatically generated
-from [laurentperrinet/2023-01-31_formes-et-perception@0770c7d](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/0770c7dbc75c9c6e08a145f0e068eecc768e4b9a)
+from [laurentperrinet/2023-01-31_formes-et-perception@5a98614](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/5a9861458808f19f1e11a3cd80e9123630047211)
 on March 25, 2023.
 </em></small>
 
@@ -126,7 +126,7 @@ Mais parfois, notre perception peut nous faire voir des objets qui n'existent pa
 
 ![**Trame Élasticité** [(Etienne Rey, 2016)](https://ondesparalleles.org/projets/trame-elasticite-vasarely/), dans un hommage à Victor Vasarely dans le cadre de la Fondation d'Aix-en-Provence en 2016. Copyright Etienne Rey (ADAGP).](http://ondesparalleles.org/wp-content/uploads/2017/01/EtienneRey-TRAME-Vasarely-C.jpg "Trame"){#fig:Élasticité}
 
-La perception relie donc notre monde intérieur au monde extérieur, réel. Dans cette approche dite phénoménologique, le monde visuel extérieur est une source d'inspiration qui alimente notre monde intérieur. La performance artistique, considérée encore comme un domaine réservé à l'espèce humaine, joue ici un rôle important dans notre vie mentale, car elle nourrit la construction de notre perception. L'observation et la création artistique nous permettent de remettre en question et d'enrichir notre compréhension de l'environnement. Un exemple de cette approche est l'œuvre [« *Les ambassadeurs* »](https://fr.wikipedia.org/wiki/Les_Ambassadeurs), dans lequel un *memento mori* est seulement perceptible suivant une perspective d'un point de vue excentré. Cette œuvre souligne comment on peut donner un sens nouveau à une scène visuelle en changeant notre perspective. Ce lien intime et créatif entre l'œuvre d'art et sa compréhension contribue au plaisir, aux émotions et à l'expérience artistique.
+La perception relie donc notre monde intérieur au monde extérieur, réel. Dans cette approche dite phénoménologique, le monde visuel extérieur est une source d'inspiration qui alimente notre monde intérieur. La performance artistique, considérée encore comme un domaine réservé à l'espèce humaine, joue ici un rôle important dans notre vie mentale, car elle nourrit la construction de notre perception. L'observation et la création artistique nous permettent de remettre en question et d'enrichir notre compréhension de l'environnement. Un exemple de cette approche se cache dans l'œuvre [« *Les ambassadeurs* »](https://fr.wikipedia.org/wiki/Les_Ambassadeurs), dans lequel un *memento mori* est seulement perceptible suivant un point de vue excentré. Cette œuvre souligne comment on peut donner un sens nouveau à une scène visuelle en changeant notre perspective. Ce lien intime et créatif entre l'œuvre d'art et sa compréhension contribue au plaisir, aux émotions et à l'expérience artistique.
 
 ## Voir en agissant sur le monde
 

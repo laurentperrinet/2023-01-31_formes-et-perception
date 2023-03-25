@@ -15,7 +15,7 @@ alignements
 alignés
 alimente
 allant
-Alors
+alors
 ambassadeurs
 analogique
 anatomiques
@@ -84,9 +84,9 @@ cérébral
 certaine
 certaines
 cerveau
-ces
+Ces
 c’est
-Cet
+cet
 cette
 ceux
 chacun
@@ -116,7 +116,7 @@ complexe
 composée
 composent
 compréhension
-Comprendre
+comprendre
 concentrée
 conçu
 conduire
@@ -155,7 +155,7 @@ critères
 d’abord
 D’aire
 d’Aix
-Dans
+dans
 d’apprentissage
 d’arbres
 d’art
@@ -186,7 +186,7 @@ Densité
 déplaçant
 dépourvus
 Depuis
-des
+Des
 dès
 d’Etienne
 deux
@@ -243,7 +243,7 @@ efficace
 élémentaires
 éléments
 élevée
-Elle
+elle
 Elles
 éloignés
 émergé
@@ -402,9 +402,9 @@ lequel
 l’espace
 l’espèce
 l’établissement
-leur
+Leur
 leurs
-l’évolution
+L’évolution
 l’expérience
 l’extraction
 l’habitude
@@ -437,7 +437,7 @@ luminosité
 lune
 macroscopique
 maintenant
-mais
+Mais
 manière
 manipulant
 manipule
@@ -472,7 +472,7 @@ nerveux
 n’est
 neurale
 neurones
-Neurosciences
+neurosciences
 n’existent
 nez
 niveau
@@ -729,7 +729,7 @@ traite
 traitée
 traitement
 Trame
-Trames
+trames
 transformaient
 transforme
 transforment
@@ -738,7 +738,7 @@ transparentes
 travaillant
 tri
 Tropique
-Une
+une
 Université
 utilisé
 utiliser

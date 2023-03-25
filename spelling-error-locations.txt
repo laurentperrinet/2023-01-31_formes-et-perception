@@ -977,6 +977,7 @@ content/01.content.md:32:créatif
 content/01.content.md:32:création
 content/01.content.md:32:dans
 content/01.content.md:32:dans
+content/01.content.md:32:dans
 content/01.content.md:32:Dans
 content/01.content.md:32:d'art
 content/01.content.md:32:d'enrichir
@@ -984,7 +985,6 @@ content/01.content.md:32:d'inspiration
 content/01.content.md:32:dite
 content/01.content.md:32:domaine
 content/01.content.md:32:donc
-content/01.content.md:32:d'un
 content/01.content.md:32:elle
 content/01.content.md:32:émotions
 content/01.content.md:32:entre
@@ -1035,7 +1035,6 @@ content/01.content.md:32:scène
 content/01.content.md:32:seulement
 content/01.content.md:32:souligne
 content/01.content.md:32:suivant
-content/01.content.md:32:une
 content/01.content.md:32:une
 content/01.content.md:32:une
 content/01.content.md:32:visuel
