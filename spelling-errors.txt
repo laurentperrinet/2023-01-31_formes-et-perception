@@ -21,6 +21,7 @@ anatomiques
 apparaître
 apparence
 apparente
+appelé
 appelée
 Appliquée
 apporté
@@ -75,18 +76,18 @@ caractère
 caractérisé
 caractérisée
 caractéristiques
-celle
+Celle
 celles
-Celui
+celui
 Cependant
 cérébral
 certaine
 certaines
 cerveau
-ces
+Ces
 c’est
 Cet
-cette
+Cette
 ceux
 chacun
 chacune
@@ -94,7 +95,7 @@ changeant
 changeantes
 changements
 chaotique
-chaque
+Chaque
 cherchent
 chimique
 choisie
@@ -115,7 +116,7 @@ complexe
 composée
 composent
 compréhension
-Comprendre
+comprendre
 concentrée
 conçu
 conduire
@@ -187,14 +188,13 @@ déplaçant
 dépourvus
 Depuis
 derniers
-Des
+des
 dès
-d’Etienne
+d’Étienne
 deux
 devaient
 devant
 devient
-d’Hans
 différent
 différentes
 différents
@@ -269,7 +269,7 @@ essentiel
 était
 état
 été
-Etienne
+Étienne
 étoile
 étrangement
 être
@@ -309,7 +309,7 @@ fois
 fonction
 fondamental
 fondamentale
-fondation
+Fondation
 formaient
 forme
 formée
@@ -406,9 +406,9 @@ l’espace
 l’espèce
 l’essentiel
 l’établissement
-leur
+Leur
 leurs
-l’évolution
+L’évolution
 l’expérience
 l’extraction
 l’habitude
@@ -430,7 +430,7 @@ L’observation
 localiser
 locaux
 l’œil
-L’œuvre
+l’œuvre
 l’on
 l’organisation
 l’orientation
@@ -441,7 +441,7 @@ luminosité
 lune
 macroscopique
 maintenant
-mais
+Mais
 manière
 manipulant
 manipule
@@ -477,7 +477,7 @@ nerveux
 n’est
 neurale
 neurones
-Neurosciences
+neurosciences
 n’existent
 nez
 niveau
@@ -485,7 +485,7 @@ niveaux
 nombre
 nombreux
 notamment
-notre
+Notre
 nourrit
 nouveau
 nouvelle
@@ -644,7 +644,6 @@ résulte
 retardée
 rétine
 rétinien
-Retinotopie
 rétinotopie
 rétinotopique
 Retinotopy
@@ -733,7 +732,7 @@ traite
 traitée
 traitement
 Trame
-trames
+Trames
 transformaient
 transforme
 transforment
@@ -762,7 +761,7 @@ visuels
 vitesse
 vivants
 voiles
-voir
+Voir
 voix
 vont
 vraisemblance

@@ -43,7 +43,6 @@ content/01.content.md:5:contient
 content/01.content.md:5:contraste
 content/01.content.md:5:couleur
 content/01.content.md:5:dans
-content/01.content.md:5:d'Hans
 content/01.content.md:5:différentes
 content/01.content.md:5:électro
 content/01.content.md:5:ensuite
@@ -107,7 +106,6 @@ content/01.content.md:7:dans
 content/01.content.md:7:déformée
 content/01.content.md:7:dénotée
 content/01.content.md:7:des
-content/01.content.md:7:d'Hans
 content/01.content.md:7:environ
 content/01.content.md:7:espace
 content/01.content.md:7:espace
@@ -136,8 +134,8 @@ content/01.content.md:7:régulière
 content/01.content.md:7:représentant
 content/01.content.md:7:représente
 content/01.content.md:7:rétinien
-content/01.content.md:7:Retinotopie
 content/01.content.md:7:rétinotopie
+content/01.content.md:7:Rétinotopie
 content/01.content.md:7:retinotopy
 content/01.content.md:7:Retinotopy
 content/01.content.md:7:Retinotopy
@@ -337,8 +335,8 @@ content/01.content.md:13:des
 content/01.content.md:13:des
 content/01.content.md:13:d’occultations
 content/01.content.md:13:émerger
-content/01.content.md:13:Etienne
-content/01.content.md:13:Etienne
+content/01.content.md:13:Étienne
+content/01.content.md:13:Étienne
 content/01.content.md:13:immatérielle
 content/01.content.md:13:Instabilité
 content/01.content.md:13:instable
@@ -377,7 +375,7 @@ content/01.content.md:15:des
 content/01.content.md:15:des
 content/01.content.md:15:des
 content/01.content.md:15:dès
-content/01.content.md:15:d'Etienne
+content/01.content.md:15:d'Étienne
 content/01.content.md:15:deux
 content/01.content.md:15:d'instabilité
 content/01.content.md:15:disparaissant
@@ -385,7 +383,7 @@ content/01.content.md:15:disposé
 content/01.content.md:15:échelles
 content/01.content.md:15:élémentaires
 content/01.content.md:15:elle
-content/01.content.md:15:Etienne
+content/01.content.md:15:Étienne
 content/01.content.md:15:être
 content/01.content.md:15:fixe
 content/01.content.md:15:hexagonale
@@ -723,8 +721,8 @@ content/01.content.md:24:Densité
 content/01.content.md:24:Densité
 content/01.content.md:24:Densité
 content/01.content.md:24:Des
-content/01.content.md:24:Etienne
-content/01.content.md:24:Etienne
+content/01.content.md:24:Étienne
+content/01.content.md:24:Étienne
 content/01.content.md:24:flou
 content/01.content.md:24:Flou
 content/01.content.md:24:Flou
@@ -744,7 +742,7 @@ content/01.content.md:24:sont
 content/01.content.md:24:sur
 content/01.content.md:26:ainsi
 content/01.content.md:26:analogique
-content/01.content.md:26:appelée
+content/01.content.md:26:appelé
 content/01.content.md:26:caractère
 content/01.content.md:26:Cependant
 content/01.content.md:26:cerveau
@@ -937,11 +935,10 @@ content/01.content.md:30:ADAGP
 content/01.content.md:30:Aix
 content/01.content.md:30:d'Aix
 content/01.content.md:30:dans
-content/01.content.md:30:dans
 content/01.content.md:30:Élasticité
 content/01.content.md:30:Élasticité
-content/01.content.md:30:Etienne
-content/01.content.md:30:Etienne
+content/01.content.md:30:Étienne
+content/01.content.md:30:Étienne
 content/01.content.md:30:Fondation
 content/01.content.md:30:hommage
 content/01.content.md:30:Rey
@@ -1282,8 +1279,8 @@ content/01.content.md:40:dans
 content/01.content.md:40:deux
 content/01.content.md:40:dynamiques
 content/01.content.md:40:espace
-content/01.content.md:40:Etienne
-content/01.content.md:40:Etienne
+content/01.content.md:40:Étienne
+content/01.content.md:40:Étienne
 content/01.content.md:40:formée
 content/01.content.md:40:l'espace
 content/01.content.md:40:l'installation
@@ -1371,7 +1368,7 @@ content/01.content.md:42:était
 content/01.content.md:42:était
 content/01.content.md:42:état
 content/01.content.md:42:été
-content/01.content.md:42:Etienne
+content/01.content.md:42:Étienne
 content/01.content.md:42:européenne
 content/01.content.md:42:évoluait
 content/01.content.md:42:évoluait
