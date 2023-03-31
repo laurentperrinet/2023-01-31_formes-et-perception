@@ -941,14 +941,13 @@ content/01.content.md:30:Étienne
 content/01.content.md:30:Étienne
 content/01.content.md:30:Fondation
 content/01.content.md:30:hommage
+content/01.content.md:30:laurentperrinet
 content/01.content.md:30:Rey
 content/01.content.md:30:Rey
 content/01.content.md:30:trame
 content/01.content.md:30:Trame
 content/01.content.md:30:Trame
-content/01.content.md:30:TRAME
 content/01.content.md:30:vasarely
-content/01.content.md:30:Vasarely
 content/01.content.md:30:Vasarely
 content/01.content.md:32:alimente
 content/01.content.md:32:ambassadeurs

@@ -76,7 +76,7 @@ caractère
 caractérisé
 caractérisée
 caractéristiques
-Celle
+celle
 celles
 celui
 Cependant
@@ -86,7 +86,7 @@ certaines
 cerveau
 Ces
 c’est
-Cet
+cet
 Cette
 ceux
 chacun
@@ -95,7 +95,7 @@ changeant
 changeantes
 changements
 chaotique
-Chaque
+chaque
 cherchent
 chimique
 choisie
@@ -116,7 +116,7 @@ complexe
 composée
 composent
 compréhension
-comprendre
+Comprendre
 concentrée
 conçu
 conduire
@@ -183,7 +183,7 @@ d’en
 d’engagement
 dénotée
 d’enrichir
-Densité
+densité
 déplaçant
 dépourvus
 Depuis
@@ -247,7 +247,7 @@ efficace
 élémentaires
 éléments
 élevée
-elle
+Elle
 elles
 éloignés
 émergé
@@ -309,7 +309,7 @@ fois
 fonction
 fondamental
 fondamentale
-Fondation
+fondation
 formaient
 forme
 formée
@@ -408,7 +408,7 @@ l’essentiel
 l’établissement
 Leur
 leurs
-L’évolution
+l’évolution
 l’expérience
 l’extraction
 l’habitude
@@ -430,7 +430,7 @@ L’observation
 localiser
 locaux
 l’œil
-l’œuvre
+L’œuvre
 l’on
 l’organisation
 l’orientation
@@ -441,7 +441,7 @@ luminosité
 lune
 macroscopique
 maintenant
-Mais
+mais
 manière
 manipulant
 manipule
@@ -477,7 +477,7 @@ nerveux
 n’est
 neurale
 neurones
-neurosciences
+Neurosciences
 n’existent
 nez
 niveau
@@ -485,7 +485,7 @@ niveaux
 nombre
 nombreux
 notamment
-Notre
+notre
 nourrit
 nouveau
 nouvelle
@@ -761,7 +761,7 @@ visuels
 vitesse
 vivants
 voiles
-Voir
+voir
 voix
 vont
 vraisemblance
