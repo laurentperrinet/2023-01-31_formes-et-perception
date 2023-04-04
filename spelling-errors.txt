@@ -78,15 +78,15 @@ caractérisée
 caractéristiques
 Celle
 celles
-celui
+Celui
 Cependant
 cérébral
 certaine
 certaines
 cerveau
-Ces
+ces
 c’est
-cet
+Cet
 Cette
 ceux
 chacun
@@ -95,7 +95,7 @@ changeant
 changeantes
 changements
 chaotique
-Chaque
+chaque
 cherchent
 chimique
 choisie
@@ -116,7 +116,7 @@ complexe
 composée
 composent
 compréhension
-Comprendre
+comprendre
 concentrée
 conçu
 conduire
@@ -155,7 +155,7 @@ critères
 d’abord
 D’aire
 d’Aix
-Dans
+dans
 d’apprentissage
 d’arbres
 d’art
@@ -188,7 +188,7 @@ déplaçant
 dépourvus
 Depuis
 derniers
-Des
+des
 dès
 d’Étienne
 deux
@@ -309,7 +309,7 @@ fois
 fonction
 fondamental
 fondamentale
-fondation
+Fondation
 formaient
 forme
 formée
@@ -406,9 +406,9 @@ l’espace
 l’espèce
 l’essentiel
 l’établissement
-leur
+Leur
 leurs
-L’évolution
+l’évolution
 l’expérience
 l’extraction
 l’habitude
@@ -485,7 +485,7 @@ niveaux
 nombre
 nombreux
 notamment
-notre
+Notre
 nourrit
 nouveau
 nouvelle
@@ -644,7 +644,7 @@ résulte
 retardée
 rétine
 rétinien
-Rétinotopie
+rétinotopie
 rétinotopique
 Retinotopy
 revanche
@@ -741,7 +741,7 @@ transparentes
 travaillant
 tri
 Tropique
-Une
+une
 Université
 utilisé
 utiliser
