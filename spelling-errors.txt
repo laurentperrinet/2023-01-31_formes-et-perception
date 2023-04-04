@@ -14,7 +14,7 @@ alignements
 alignés
 alimente
 allant
-alors
+Alors
 ambassadeurs
 analogique
 anatomiques
@@ -76,7 +76,7 @@ caractère
 caractérisé
 caractérisée
 caractéristiques
-celle
+Celle
 celles
 celui
 Cependant
@@ -95,7 +95,7 @@ changeant
 changeantes
 changements
 chaotique
-chaque
+Chaque
 cherchent
 chimique
 choisie
@@ -183,12 +183,12 @@ d’en
 d’engagement
 dénotée
 d’enrichir
-densité
+Densité
 déplaçant
 dépourvus
 Depuis
 derniers
-des
+Des
 dès
 d’Étienne
 deux
@@ -247,7 +247,7 @@ efficace
 élémentaires
 éléments
 élevée
-Elle
+elle
 elles
 éloignés
 émergé
@@ -406,9 +406,9 @@ l’espace
 l’espèce
 l’essentiel
 l’établissement
-Leur
+leur
 leurs
-l’évolution
+L’évolution
 l’expérience
 l’extraction
 l’habitude
@@ -430,7 +430,7 @@ L’observation
 localiser
 locaux
 l’œil
-L’œuvre
+l’œuvre
 l’on
 l’organisation
 l’orientation
@@ -441,7 +441,7 @@ luminosité
 lune
 macroscopique
 maintenant
-mais
+Mais
 manière
 manipulant
 manipule
@@ -477,7 +477,7 @@ nerveux
 n’est
 neurale
 neurones
-Neurosciences
+neurosciences
 n’existent
 nez
 niveau
@@ -644,7 +644,7 @@ résulte
 retardée
 rétine
 rétinien
-rétinotopie
+Rétinotopie
 rétinotopique
 Retinotopy
 revanche
@@ -732,7 +732,7 @@ traite
 traitée
 traitement
 Trame
-Trames
+trames
 transformaient
 transforme
 transforment

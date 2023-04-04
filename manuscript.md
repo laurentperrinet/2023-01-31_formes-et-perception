@@ -5,7 +5,7 @@ keywords:
 - Neurosciences
 - Art
 lang: fr-FR
-date-meta: '2023-03-31'
+date-meta: '2023-04-04'
 author-meta:
 - Laurent U Perrinet
 header-includes: |
@@ -19,11 +19,11 @@ header-includes: |
   <meta name="citation_title" content="Formes &amp; perception" />
   <meta property="og:title" content="Formes &amp; perception" />
   <meta property="twitter:title" content="Formes &amp; perception" />
-  <meta name="dc.date" content="2023-03-31" />
-  <meta name="citation_publication_date" content="2023-03-31" />
-  <meta property="article:published_time" content="2023-03-31" />
-  <meta name="dc.modified" content="2023-03-31T15:39:52+00:00" />
-  <meta property="article:modified_time" content="2023-03-31T15:39:52+00:00" />
+  <meta name="dc.date" content="2023-04-04" />
+  <meta name="citation_publication_date" content="2023-04-04" />
+  <meta property="article:published_time" content="2023-04-04" />
+  <meta name="dc.modified" content="2023-04-04T12:38:31+00:00" />
+  <meta property="article:modified_time" content="2023-04-04T12:38:31+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/144ebe98ef5a7030e0538dbb95a6c00511fec0a9/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/144ebe98ef5a7030e0538dbb95a6c00511fec0a9/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/144ebe98ef5a7030e0538dbb95a6c00511fec0a9/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/b33732eb78a83bdb8cdb33837e7b2d48f364d2bd/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/b33732eb78a83bdb8cdb33837e7b2d48f364d2bd/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/b33732eb78a83bdb8cdb33837e7b2d48f364d2bd/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,10 +63,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/144ebe98ef5a7030e0538dbb95a6c00511fec0a9/))
+([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/b33732eb78a83bdb8cdb33837e7b2d48f364d2bd/))
 was automatically generated
-from [laurentperrinet/2023-01-31_formes-et-perception@144ebe9](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/144ebe98ef5a7030e0538dbb95a6c00511fec0a9)
-on March 31, 2023.
+from [laurentperrinet/2023-01-31_formes-et-perception@b33732e](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/b33732eb78a83bdb8cdb33837e7b2d48f364d2bd)
+on April 4, 2023.
 </em></small>
 
 
@@ -142,9 +142,10 @@ Dans ce nouveau genre d'initiative artistique, la manipulation des formes et des
 
 ## Voir a-t-il un sens ?
 
-En somme, Art et Sciences abordent cette relation avec des approches différentes, mais intimement complémentaires. Ensemble, ils permettent de reconsidérer notre relation avec le monde en tant qu'individus et en tant qu'espèce, remettant en question la spécificité réservée à l'humain de pouvoir apprécier la création artistique. Aujourd'hui, nous commençons à comprendre le rôle de la vision et sa fonction dans la synergie entre les formes sensorielles et la perception. Cette synergie définit notre propre "cinéma interne" qui, à l'analogue de notre voix interne, définit pour une large part notre identité et qui, pour l'essentiel, reste un mystère ouvert dont la découverte nous échappe encore.
+En somme, Art et Sciences abordent la question de la relation entre réalité et perception avec des approches différentes, mais intimement complémentaires. Ensemble, ils permettent de reconsidérer notre relation avec le monde en tant qu'individus et en tant qu'espèce, remettant en question la spécificité réservée à l'humain de pouvoir apprécier la création artistique. Aujourd'hui, nous commençons à comprendre le rôle de la vision et sa fonction dans la synergie entre les formes sensorielles et la perception. Cette synergie définit notre propre "cinéma interne" qui, à l'analogue de notre voix interne, définit pour une large part notre identité et qui, pour l'essentiel, reste un mystère ouvert dont la découverte nous échappe encore.
 
 ## Références {.page_break_before}
 
 <!-- Explicitly insert bibliography here -->
 <div id="refs"></div>
+
