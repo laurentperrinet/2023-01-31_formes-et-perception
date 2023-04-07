@@ -88,7 +88,7 @@ cerveau
 ces
 c’est
 cet
-cette
+Cette
 ceux
 chacun
 chacune
@@ -157,7 +157,7 @@ critères
 d’abord
 D’aire
 d’Aix
-dans
+Dans
 d’apprentissage
 d’arbres
 d’art
@@ -185,7 +185,7 @@ d’en
 d’engagement
 dénotée
 d’enrichir
-densité
+Densité
 déplaçant
 dépourvus
 Depuis
@@ -250,7 +250,7 @@ efficace
 élémentaires
 éléments
 élevée
-elle
+Elle
 elles
 éloignés
 émergé
@@ -445,7 +445,7 @@ luminosité
 lune
 macroscopique
 maintenant
-mais
+Mais
 manière
 manipulant
 manipule
@@ -488,7 +488,7 @@ niveaux
 nombre
 nombreux
 notamment
-notre
+Notre
 nourrit
 nouveau
 nouvelle
@@ -603,7 +603,6 @@ reconsidérer
 rectiligne
 réel
 réels
-Références
 réfléchis
 reflet
 regarder
@@ -647,7 +646,7 @@ résulte
 retardée
 rétine
 rétinien
-Rétinotopie
+rétinotopie
 rétinotopique
 Retinotopy
 revanche
@@ -767,7 +766,7 @@ visuels
 vitesse
 vivants
 voiles
-Voir
+voir
 voix
 vont
 vraisemblance
