@@ -5,7 +5,7 @@ keywords:
 - Neurosciences
 - Art
 lang: fr-FR
-date-meta: '2023-04-04'
+date-meta: '2023-04-07'
 author-meta:
 - Laurent U Perrinet
 header-includes: |
@@ -19,11 +19,11 @@ header-includes: |
   <meta name="citation_title" content="Formes &amp; perception" />
   <meta property="og:title" content="Formes &amp; perception" />
   <meta property="twitter:title" content="Formes &amp; perception" />
-  <meta name="dc.date" content="2023-04-04" />
-  <meta name="citation_publication_date" content="2023-04-04" />
-  <meta property="article:published_time" content="2023-04-04" />
-  <meta name="dc.modified" content="2023-04-04T12:39:31+00:00" />
-  <meta property="article:modified_time" content="2023-04-04T12:39:31+00:00" />
+  <meta name="dc.date" content="2023-04-07" />
+  <meta name="citation_publication_date" content="2023-04-07" />
+  <meta property="article:published_time" content="2023-04-07" />
+  <meta name="dc.modified" content="2023-04-07T10:22:16+00:00" />
+  <meta property="article:modified_time" content="2023-04-07T10:22:16+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/f5a6a5401c0a891b5427c1cdbc743579c225f6e6/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/f5a6a5401c0a891b5427c1cdbc743579c225f6e6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/f5a6a5401c0a891b5427c1cdbc743579c225f6e6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/a17b10c03358992cafb162439fae0e462322ca7e/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/a17b10c03358992cafb162439fae0e462322ca7e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/a17b10c03358992cafb162439fae0e462322ca7e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,10 +63,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/f5a6a5401c0a891b5427c1cdbc743579c225f6e6/))
+([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/a17b10c03358992cafb162439fae0e462322ca7e/))
 was automatically generated
-from [laurentperrinet/2023-01-31_formes-et-perception@f5a6a54](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/f5a6a5401c0a891b5427c1cdbc743579c225f6e6)
-on April 4, 2023.
+from [laurentperrinet/2023-01-31_formes-et-perception@a17b10c](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/a17b10c03358992cafb162439fae0e462322ca7e)
+on April 7, 2023.
 </em></small>
 
 
@@ -99,13 +99,13 @@ on April 4, 2023.
 
 ## Matière à voir, la neuroscience de la vision
 
-Commençons par imaginer que nous portons notre regard sur un portrait comme celui présenté dans [*Les ambassadeurs* (1533) de Hans Holbein le Jeune (c. 1497-1543)](https://fr.wikipedia.org/wiki/Les_Ambassadeurs). Notre système nerveux est responsable de notre capacité à voir le monde lumineux qui en résulte. Les photons réfléchis sur la surface du tableau sont ensuite focalisés par nos yeux pour former une image sur la rétine. Cette fine surface qui tapisse le fond de l'œil contient un réseau compact de neurones qui transforment cette image en un signal électro-chimique. Celui-ci entraine une cascade de processus qui va conduire à séparer différentes caractéristiques de la lumière, comme notamment le contraste ou la couleur pour finalement former une représentation neurale qui, transmise au reste du cerveau par le nerf optique, permettra de construire une perception de l'ensemble de la scène.
+Commençons par imaginer que nous portons notre regard dans un télescope et que nous observons M51, la [*galaxie du Tourbillon*](https://fr.wikipedia.org/wiki/M51_(galaxie)). Notre système nerveux est responsable de notre capacité à voir le monde lumineux qui en résulte. Les photons réfléchis sur la surface du tableau sont ensuite focalisés par nos yeux pour former une image sur la rétine. Cette fine surface qui tapisse le fond de l'œil contient un réseau compact de neurones qui transforment cette image en un signal électro-chimique. Celui-ci entraine une cascade de processus qui va conduire à séparer différentes caractéristiques de la lumière, comme notamment le contraste ou la couleur pour finalement former une représentation neurale qui, transmise au reste du cerveau par le nerf optique, permettra de construire une perception de l'ensemble de la scène.
 
-![Rétinotopie. Une image (extraite du tableau [*Les ambassadeurs* de Hans Holbein le Jeune](https://fr.wikipedia.org/wiki/Les_Ambassadeurs)) peut être mesurée sur une grille régulière dénotée ici par des lignes verticales (en rouge) et horizontales (en bleu). La rétinotopie transforme radicalement cette grille, et en particulier la zone représentant la fovéa (en gris) occupe environ la moitié de l'espace dans l'espace rétinien. Appliquée à l'image originale du portrait, l'image est déformée et représente plus finement les parties sous l'axe de vue (ici la bouche).](images/retinotopy.png "Retinotopy"){#fig:Retinotopy}
+![Rétinotopie. Une image de la [*galaxie du Tourbillon*](https://fr.wikipedia.org/wiki/M51_(galaxie)) (photo © Laurent Perrinet, 6 minutes d'exposition avec un [evScope](https://en.wikipedia.org/wiki/Unistellar)) peut être cartographiée sur une grille régulière dénotée ici par des lignes verticales (en rouge) et horizontales (en bleu). La rétinotopie transforme radicalement cette grille, et en particulier la zone représentant la fovéa (en gris) occupe environ la moitié de l'espace dans l'espace rétinien. Appliquée à l'image originale de la galaxie, l'image est déformée et représente plus finement les parties sous l'axe de vue (ici le cœur de la galaxie) et transforme les bras spiralés de la galaxie en segments.](images/retinotopy.png "Retinotopy"){#fig:Retinotopy}
 
 Il est remarquable de constater que cette représentation est fortement contrainte par l'anatomie de l'œil et de la rétine. Par exemple, la densité de neurones est bien plus élevée dans un rayon de quelque degrés autour du centre de l'axe visuel, où environ la moitié de notre acuité visuelle est concentrée (Figure @fig:Retinotopy). Cette zone, appelée fovéa, est principalement composée de photorécepteurs sensibles aux couleurs. En revanche, les photorécepteurs en périphérie de cette zone sont principalement insensibles aux couleurs, mais ont la capacité de répondre plus rapidement aux variations de luminosité, et aussi de s'adapter à des conditions d'éclairage changeantes, notamment la nuit. Cette contrainte physiologique explique pourquoi les objets peuvent apparaître en nuances de gris sous un clair de lune ou pourquoi nous pouvons plus facilement distinguer une étoile faiblement brillante en fixant légèrement à côté d'elle. 
 
-Cette représentation de l'image est ensuite relayée au reste du cerveau pour être transmise aux aires visuelles situées sur sa surface, le cortex. Ces aires conservent un arrangement sensiblement similaire à celui de la rétine et la moitié de la surface de chacune de ces aires traite la zone de la fovéa. D'aire en aire, une série de processus affine progressivement les caractéristiques visuelles. En premier, l'information de nos deux yeux converge dans le cortex visuel primaire pour former une représentation binoculaire qui va permettre l'extraction de caractéristiques locales basiques : orientation locale des contours, disparité entre les deux yeux, contrastes de couleur, etc. Le portrait est alors représenté comme l’activation de neurones sélectifs à des bords contrastés locaux, similaires aux touches d'un peintre sur le tableau. Depuis cette représentation, des aires spécialisées vont extraire des conjonctions entre ces caractéristiques, assembler les différents traits de pinceau pour former par exemple une représentation de la forme du nez et de la bouche du personnage et pour enfin obtenir des indices de plus haut niveau, comme identifier les parties qui constituent le tour du visage et ses parties et ensuite déchiffrer l'émotion exprimée sur l'image du visage.
+Cette représentation de l'image est ensuite relayée au reste du cerveau pour être transmise aux aires visuelles situées sur sa surface, le cortex. Ces aires conservent un arrangement sensiblement similaire à celui de la rétine et la moitié de la surface de chacune de ces aires traite la zone de la fovéa. D'aire en aire, une série de processus affine progressivement les caractéristiques visuelles. En premier, l'information de nos deux yeux converge dans le cortex visuel primaire pour former une représentation binoculaire qui va permettre l'extraction de caractéristiques locales basiques : orientation locale des contours, disparité entre les deux yeux, contrastes de couleur, etc. Le portrait est alors représenté comme l’activation de neurones sélectifs à des bords contrastés locaux, similaires aux touches d'un peintre sur le tableau. Depuis cette représentation, des aires spécialisées vont extraire des conjonctions entre ces caractéristiques, assembler les différents traits de pinceau pour former par exemple une représentation de la forme d'un nez et de la bouche d'un personnage et pour enfin obtenir des indices de plus haut niveau, comme identifier les parties qui constituent le tour du visage et ses parties et ensuite déchiffrer l'émotion exprimée sur l'image du visage.
  
 ![Étienne Rey, [*Trames Instabilité*](https://ondesparalleles.org/projets/instabilite-%C2%BD-noir-blanc-jaune/), 2018. Cette sérigraphie sur papier (100 x 100 cm) est basée sur des principes d’occultations partielles en couches associées à des trames qui font émerger une dimension immatérielle et instable. Copyright Étienne Rey (ADAGP).](https://ondesparalleles.org/wp-content/uploads/2020/01/B_2017-07-NBJ_ER_ADAGP.jpg "Trames"){#fig:Trames}
 
@@ -126,7 +126,7 @@ Mais parfois, notre perception peut nous faire voir des objets qui n'existent pa
 
 ![Étienne Rey, [*Trame Élasticité*](https://ondesparalleles.org/projets/trame-elasticite-vasarely/), 2016, un hommage à Victor Vasarely dans le cadre de la Fondation d'Aix-en-Provence. Copyright Étienne Rey (ADAGP).](https://laurentperrinet.github.io/post/2016-06-02_elasticite/TRAME_Elasticité.jpg "Trame"){#fig:Élasticité}
 
-La perception relie donc notre monde intérieur au monde extérieur, réel. Dans cette approche dite phénoménologique, le monde visuel extérieur est une source d'inspiration qui alimente notre monde intérieur. La performance artistique, considérée encore comme un domaine réservé à l'espèce humaine, joue ici un rôle important dans notre vie mentale, car elle nourrit la construction de notre perception. L'observation et la création artistique nous permettent de remettre en question et d'enrichir notre compréhension de l'environnement. Un exemple de cette approche se dissimule dans l'œuvre [*Les ambassadeurs*](https://fr.wikipedia.org/wiki/Les_Ambassadeurs), dans lequel un *memento mori* est seulement perceptible suivant un point de vue excentré. Cette œuvre souligne comment on peut apporter un sens nouveau à une scène visuelle en changeant notre perspective. Ce lien intime et créatif entre l'œuvre d'art et sa compréhension contribue au plaisir, aux émotions et à l'expérience artistique.
+La perception relie donc notre monde intérieur au monde extérieur, réel. Dans cette approche dite phénoménologique, le monde visuel extérieur est une source d'inspiration qui alimente notre monde intérieur. La performance artistique, considérée encore comme un domaine réservé à l'espèce humaine, joue ici un rôle important dans notre vie mentale, car elle nourrit la construction de notre perception. L'observation et la création artistique nous permettent de remettre en question et d'enrichir notre compréhension de l'environnement. Un exemple de cette approche se dissimule dans l'œuvre [*Les ambassadeurs* (1533) de Hans Holbein le Jeune (c. 1497-1543)](https://fr.wikipedia.org/wiki/Les_Ambassadeurs), dans lequel un *memento mori* est seulement perceptible suivant un point de vue excentré. Cette œuvre souligne comment on peut apporter un sens nouveau à une scène visuelle en changeant notre perspective. Ce lien intime et créatif entre l'œuvre d'art et sa compréhension contribue au plaisir, aux émotions et à l'expérience artistique.
 
 ## Voir en agissant sur le monde
 

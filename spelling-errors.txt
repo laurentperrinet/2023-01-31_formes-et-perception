@@ -14,7 +14,7 @@ alignements
 alignés
 alimente
 allant
-Alors
+alors
 ambassadeurs
 analogique
 anatomiques
@@ -76,9 +76,10 @@ caractère
 caractérisé
 caractérisée
 caractéristiques
-Celle
+cartographiée
+celle
 celles
-Celui
+celui
 Cependant
 cérébral
 certaine
@@ -86,8 +87,8 @@ certaines
 cerveau
 ces
 c’est
-Cet
-Cette
+cet
+cette
 ceux
 chacun
 chacune
@@ -95,7 +96,7 @@ changeant
 changeantes
 changements
 chaotique
-chaque
+Chaque
 cherchent
 chimique
 choisie
@@ -104,6 +105,7 @@ ciel
 cinéma
 cinétique
 CNRS
+cœur
 coexiste
 colorés
 combinés
@@ -116,7 +118,7 @@ complexe
 composée
 composent
 compréhension
-comprendre
+Comprendre
 concentrée
 conçu
 conduire
@@ -183,7 +185,7 @@ d’en
 d’engagement
 dénotée
 d’enrichir
-Densité
+densité
 déplaçant
 dépourvus
 Depuis
@@ -195,6 +197,7 @@ deux
 devaient
 devant
 devient
+d’exposition
 différent
 différentes
 différents
@@ -278,6 +281,7 @@ européenne
 évoluait
 évolutif
 évoquées
+evScope
 excentré
 exemple
 expérience
@@ -287,7 +291,6 @@ exprimée
 exprimer
 extérieur
 extraire
-extraite
 facilement
 façon
 facteur
@@ -309,7 +312,7 @@ fois
 fonction
 fondamental
 fondamentale
-Fondation
+fondation
 formaient
 forme
 formée
@@ -318,6 +321,7 @@ formes
 fortement
 fovéa
 fragmentant
+galaxie
 gamme
 général
 générale
@@ -406,7 +410,7 @@ l’espace
 l’espèce
 l’essentiel
 l’établissement
-Leur
+leur
 leurs
 l’évolution
 l’expérience
@@ -441,7 +445,7 @@ luminosité
 lune
 macroscopique
 maintenant
-Mais
+mais
 manière
 manipulant
 manipule
@@ -454,7 +458,6 @@ mécanisme
 mécanismes
 même
 mentale
-mesurée
 mesurer
 mètres
 microscopiques
@@ -477,7 +480,7 @@ nerveux
 n’est
 neurale
 neurones
-neurosciences
+Neurosciences
 n’existent
 nez
 niveau
@@ -485,7 +488,7 @@ niveaux
 nombre
 nombreux
 notamment
-Notre
+notre
 nourrit
 nouveau
 nouvelle
@@ -499,6 +502,7 @@ observateur
 observateurs
 observées
 observions
+observons
 obtenir
 occupe
 oculaire
@@ -559,7 +563,6 @@ précédemment
 prédateurs
 présence
 présent
-présenté
 présentée
 présentes
 prévalence
@@ -644,7 +647,7 @@ résulte
 retardée
 rétine
 rétinien
-rétinotopie
+Rétinotopie
 rétinotopique
 Retinotopy
 revanche
@@ -701,6 +704,7 @@ spécialisées
 spécificité
 spectateur
 spectateurs
+spiralés
 stabilité
 suffit
 suggérant
@@ -719,12 +723,14 @@ tandis
 tant
 tantôt
 tapisse
+télescope
 telle
 telles
 terme
 Timone
 toucher
 toujours
+Tourbillon
 tourner
 Toutefois
 toutes
@@ -732,7 +738,7 @@ traite
 traitée
 traitement
 Trame
-trames
+Trames
 transformaient
 transforme
 transforment
@@ -761,7 +767,7 @@ visuels
 vitesse
 vivants
 voiles
-voir
+Voir
 voix
 vont
 vraisemblance
