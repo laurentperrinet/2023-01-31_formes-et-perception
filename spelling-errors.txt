@@ -87,7 +87,7 @@ certaines
 cerveau
 ces
 c’est
-cet
+Cet
 Cette
 ceux
 chacun
@@ -96,7 +96,7 @@ changeant
 changeantes
 changements
 chaotique
-Chaque
+chaque
 cherchent
 chimique
 choisie
@@ -250,7 +250,7 @@ efficace
 élémentaires
 éléments
 élevée
-Elle
+elle
 elles
 éloignés
 émergé
@@ -410,7 +410,7 @@ l’espace
 l’espèce
 l’essentiel
 l’établissement
-leur
+Leur
 leurs
 l’évolution
 l’expérience
@@ -746,7 +746,7 @@ transparentes
 travaillant
 tri
 Tropique
-une
+Une
 Université
 utilisé
 utiliser

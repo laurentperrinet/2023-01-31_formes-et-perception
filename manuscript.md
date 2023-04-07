@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2023-04-07" />
   <meta name="citation_publication_date" content="2023-04-07" />
   <meta property="article:published_time" content="2023-04-07" />
-  <meta name="dc.modified" content="2023-04-07T10:28:00+00:00" />
-  <meta property="article:modified_time" content="2023-04-07T10:28:00+00:00" />
+  <meta name="dc.modified" content="2023-04-07T10:40:05+00:00" />
+  <meta property="article:modified_time" content="2023-04-07T10:40:05+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/549f93d7f5816c0c496f23cfccd28c98b0908a12/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/549f93d7f5816c0c496f23cfccd28c98b0908a12/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/549f93d7f5816c0c496f23cfccd28c98b0908a12/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/61e6c9139d8161e1b8e8e5cdb060c45f7a824034/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/61e6c9139d8161e1b8e8e5cdb060c45f7a824034/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/61e6c9139d8161e1b8e8e5cdb060c45f7a824034/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/549f93d7f5816c0c496f23cfccd28c98b0908a12/))
+([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/61e6c9139d8161e1b8e8e5cdb060c45f7a824034/))
 was automatically generated
-from [laurentperrinet/2023-01-31_formes-et-perception@549f93d](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/549f93d7f5816c0c496f23cfccd28c98b0908a12)
+from [laurentperrinet/2023-01-31_formes-et-perception@61e6c91](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/61e6c9139d8161e1b8e8e5cdb060c45f7a824034)
 on April 7, 2023.
 </em></small>
 
@@ -124,7 +124,7 @@ Comprendre comment nous percevons le monde visuel est toujours un défi. Cependa
 
 Mais parfois, notre perception peut nous faire voir des objets qui n'existent pas, comme un visage dans les textures d'un rocher. Ce phénomène a été utilisé dans *Densité – Flou*, présentée à Avignon en 2019 (Figure @fig:Densité), qui consistait en un ensemble de triangles indépendants disposés aléatoirement sur une surface. La forte densité des triangles induit la perception de formes imaginaires comme des voiles, des perspectives ou des structures tri-dimensionnelles élémentaires. Dans une autre œuvre, *Trame Élasticité*, présentée en 2016 dans le cadre d'un hommage à Victor Vasarely à la Fondation d'Aix-en-Provence, cette expérience était poussée plus loin : 25 monolithes de 3 m de hauteur et 40 cm de largeur étaient placés sur un socle rectiligne de 5 m de long et pouvaient tourner indépendamment suivant leur axe vertical. Cette chorégraphie produisait des moments de calme cristallin qui rapidement se transformaient en instants de chaos. Pour un observateur, ce procédé permettait de projeter son propre reflet tout en le fragmentant dans l'environnement de l'œuvre, notamment les rythmes colorés de Vasarely, afin de produire un va-et-vient entre les mondes réels et perçus. Les observateurs devaient alors changer de perspective pour résoudre cette incertitude et explorer le lien entre mondes réel et perçu.
 
-![Étienne Rey, [*Trame Élasticité*](https://ondesparalleles.org/projets/trame-elasticite-vasarely/), 2016, un hommage à Victor Vasarely dans le cadre de la Fondation d'Aix-en-Provence. Copyright Étienne Rey (ADAGP).](https://laurentperrinet.github.io/post/2016-06-02_elasticite/TRAME_Elasticité.jpg "Trame"){#fig:Élasticité}
+![Étienne Rey, [*Trame Élasticité*](https://ondesparalleles.org/projets/trame-elasticite-vasarely/), 2016, un hommage à Victor Vasarely dans le cadre de la Fondation d'Aix-en-Provence. Copyright Étienne Rey (ADAGP).](https://laurentperrinet.github.io/post/2016-06-02_elasticite/TRAME_Elasticité.jpg "Trame"){#fig:Élasticité}
 
 La perception relie donc notre monde intérieur au monde extérieur, réel. Dans cette approche dite phénoménologique, le monde visuel extérieur est une source d'inspiration qui alimente notre monde intérieur. La performance artistique, considérée encore comme un domaine réservé à l'espèce humaine, joue ici un rôle important dans notre vie mentale, car elle nourrit la construction de notre perception. L'observation et la création artistique nous permettent de remettre en question et d'enrichir notre compréhension de l'environnement. Un exemple de cette approche se dissimule dans l'œuvre [*Les ambassadeurs* (1533) de Hans Holbein le Jeune (c. 1497-1543)](https://fr.wikipedia.org/wiki/Les_Ambassadeurs), dans lequel un *memento mori* est seulement perceptible suivant un point de vue excentré. Cette œuvre souligne comment on peut apporter un sens nouveau à une scène visuelle en changeant notre perspective. Ce lien intime et créatif entre l'œuvre d'art et sa compréhension contribue au plaisir, aux émotions et à l'expérience artistique.
 
