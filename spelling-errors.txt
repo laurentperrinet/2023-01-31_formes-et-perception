@@ -14,7 +14,7 @@ alignements
 alignés
 alimente
 allant
-alors
+Alors
 ambassadeurs
 analogique
 anatomiques
@@ -79,13 +79,13 @@ caractéristiques
 cartographiée
 celle
 celles
-celui
+Celui
 Cependant
 cérébral
 certaine
 certaines
 cerveau
-ces
+Ces
 c’est
 Cet
 Cette
@@ -118,7 +118,7 @@ complexe
 composée
 composent
 compréhension
-Comprendre
+comprendre
 concentrée
 conçu
 conduire
@@ -157,7 +157,7 @@ critères
 d’abord
 D’aire
 d’Aix
-Dans
+dans
 d’apprentissage
 d’arbres
 d’art
@@ -185,12 +185,12 @@ d’en
 d’engagement
 dénotée
 d’enrichir
-Densité
+densité
 déplaçant
 dépourvus
 Depuis
 derniers
-des
+Des
 dès
 d’Étienne
 deux
@@ -488,7 +488,7 @@ niveaux
 nombre
 nombreux
 notamment
-Notre
+notre
 nourrit
 nouveau
 nouvelle
@@ -646,7 +646,7 @@ résulte
 retardée
 rétine
 rétinien
-rétinotopie
+Rétinotopie
 rétinotopique
 Retinotopy
 revanche
