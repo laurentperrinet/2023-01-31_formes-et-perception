@@ -5,7 +5,7 @@ keywords:
 - Neurosciences
 - Art
 lang: fr-FR
-date-meta: '2023-05-20'
+date-meta: '2023-05-21'
 author-meta:
 - Laurent U Perrinet
 header-includes: |
@@ -19,11 +19,11 @@ header-includes: |
   <meta name="citation_title" content="Formes &amp; perception" />
   <meta property="og:title" content="Formes &amp; perception" />
   <meta property="twitter:title" content="Formes &amp; perception" />
-  <meta name="dc.date" content="2023-05-20" />
-  <meta name="citation_publication_date" content="2023-05-20" />
-  <meta property="article:published_time" content="2023-05-20" />
-  <meta name="dc.modified" content="2023-05-20T07:44:07+00:00" />
-  <meta property="article:modified_time" content="2023-05-20T07:44:07+00:00" />
+  <meta name="dc.date" content="2023-05-21" />
+  <meta name="citation_publication_date" content="2023-05-21" />
+  <meta property="article:published_time" content="2023-05-21" />
+  <meta name="dc.modified" content="2023-05-21T08:19:06+00:00" />
+  <meta property="article:modified_time" content="2023-05-21T08:19:06+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,11 +39,13 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/82011b281b8993c08c060eb3a9ec8655f7686446/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/82011b281b8993c08c060eb3a9ec8655f7686446/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/82011b281b8993c08c060eb3a9ec8655f7686446/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/ece787c3d4673d73fb0bda127e65f90f93641c5e/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/ece787c3d4673d73fb0bda127e65f90f93641c5e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/ece787c3d4673d73fb0bda127e65f90f93641c5e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
+  <meta property="og:image" content="https://raw.githubusercontent.com/laurentperrinet/2023-01-31_formes-et-perception/main/content/images/eVscope-20230319-220133_crop-small.png" />
+  <meta property="twitter:image" content="https://raw.githubusercontent.com/laurentperrinet/2023-01-31_formes-et-perception/main/content/images/eVscope-20230319-220133_crop-small.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -63,10 +65,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/82011b281b8993c08c060eb3a9ec8655f7686446/))
+([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/ece787c3d4673d73fb0bda127e65f90f93641c5e/))
 was automatically generated
-from [laurentperrinet/2023-01-31_formes-et-perception@82011b2](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/82011b281b8993c08c060eb3a9ec8655f7686446)
-on May 20, 2023.
+from [laurentperrinet/2023-01-31_formes-et-perception@ece787c](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/ece787c3d4673d73fb0bda127e65f90f93641c5e)
+on May 21, 2023.
 </em></small>
 
 

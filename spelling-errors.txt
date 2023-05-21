@@ -79,7 +79,7 @@ caractéristiques
 cartographiée
 celle
 celles
-Celui
+celui
 Cependant
 cérébral
 certaine
@@ -87,7 +87,7 @@ certaines
 cerveau
 Ces
 c’est
-Cet
+cet
 Cette
 ceux
 chacun
@@ -110,7 +110,7 @@ coexiste
 colorés
 combinés
 comme
-Commençons
+commençons
 communiquent
 complémentaires
 complété
@@ -118,7 +118,7 @@ complexe
 composée
 composent
 compréhension
-comprendre
+Comprendre
 concentrée
 conçu
 conduire
@@ -157,7 +157,7 @@ critères
 d’abord
 D’aire
 d’Aix
-dans
+Dans
 d’apprentissage
 d’arbres
 d’art
@@ -185,7 +185,7 @@ d’en
 d’engagement
 dénotée
 d’enrichir
-densité
+Densité
 déplaçant
 dépourvus
 Depuis
@@ -410,7 +410,7 @@ l’espace
 l’espèce
 l’essentiel
 l’établissement
-Leur
+leur
 leurs
 l’évolution
 l’expérience
@@ -434,7 +434,7 @@ L’observation
 localiser
 locaux
 l’œil
-l’œuvre
+L’œuvre
 l’on
 l’organisation
 l’orientation
@@ -445,7 +445,7 @@ luminosité
 lune
 macroscopique
 maintenant
-Mais
+mais
 manière
 manipulant
 manipule
@@ -480,7 +480,7 @@ nerveux
 n’est
 neurale
 neurones
-Neurosciences
+neurosciences
 n’existent
 nez
 niveau
@@ -646,7 +646,7 @@ résulte
 retardée
 rétine
 rétinien
-Rétinotopie
+rétinotopie
 rétinotopique
 Retinotopy
 revanche
@@ -737,7 +737,7 @@ traite
 traitée
 traitement
 Trame
-Trames
+trames
 transformaient
 transforme
 transforment
