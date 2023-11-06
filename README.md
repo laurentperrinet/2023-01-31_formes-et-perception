@@ -2,6 +2,7 @@
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
+[Author's website](https://laurentperrinet.github.io/post/2023-11-06-vasarely/)
 [![Manuscrit en ligne](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/)
 [![Manuscrit en PDF](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf)
 [![Manuscrit en DOCX](https://img.shields.io/badge/manuscript-DOCX-blue.svg)](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.docx)
