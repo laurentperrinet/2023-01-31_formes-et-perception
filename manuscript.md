@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2023-11-06" />
   <meta name="citation_publication_date" content="2023-11-06" />
   <meta property="article:published_time" content="2023-11-06" />
-  <meta name="dc.modified" content="2023-11-06T19:31:21+00:00" />
-  <meta property="article:modified_time" content="2023-11-06T19:31:21+00:00" />
+  <meta name="dc.modified" content="2023-11-06T19:33:09+00:00" />
+  <meta property="article:modified_time" content="2023-11-06T19:33:09+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,13 +39,13 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/4d6a4fe58a115aef917dd8416eabaaf9c4a380c2/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/4d6a4fe58a115aef917dd8416eabaaf9c4a380c2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/4d6a4fe58a115aef917dd8416eabaaf9c4a380c2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/112a0299320e4dcd2d9af3b0c7196f41712eacec/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/112a0299320e4dcd2d9af3b0c7196f41712eacec/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/112a0299320e4dcd2d9af3b0c7196f41712eacec/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/laurentperrinet/2023-01-31_formes-et-perception/raw/4d6a4fe58a115aef917dd8416eabaaf9c4a380c2/content/images/eVscope-20230319-220133_crop-small.png" />
-  <meta property="twitter:image" content="https://github.com/laurentperrinet/2023-01-31_formes-et-perception/raw/4d6a4fe58a115aef917dd8416eabaaf9c4a380c2/content/images/eVscope-20230319-220133_crop-small.png" />
+  <meta property="og:image" content="https://github.com/laurentperrinet/2023-01-31_formes-et-perception/raw/112a0299320e4dcd2d9af3b0c7196f41712eacec/content/images/eVscope-20230319-220133_crop-small.png" />
+  <meta property="twitter:image" content="https://github.com/laurentperrinet/2023-01-31_formes-et-perception/raw/112a0299320e4dcd2d9af3b0c7196f41712eacec/content/images/eVscope-20230319-220133_crop-small.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -60,14 +60,16 @@ manubot-clear-requests-cache: false
 
 
 
+[<i class="fas fa-ban fa-lg"></i> **Document source**<br>Republication d'un article écrit pour le catalogue de l'exposition "Vasarely, d'un art programmatique au numérique" qui a eu lieu du 17 juin au 15 octobre 2023 à l'Espace Culturel départemental Lympia de Nice. <br> Pour plus d'informations, suivre le lien sur le [site de l'auteur](https://laurentperrinet.github.io/post/2023-11-06-vasarely/).]{.banner .lightred}
+
 
 
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/4d6a4fe58a115aef917dd8416eabaaf9c4a380c2/))
+([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/112a0299320e4dcd2d9af3b0c7196f41712eacec/))
 was automatically generated
-from [laurentperrinet/2023-01-31_formes-et-perception@4d6a4fe](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/4d6a4fe58a115aef917dd8416eabaaf9c4a380c2)
+from [laurentperrinet/2023-01-31_formes-et-perception@112a029](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/112a0299320e4dcd2d9af3b0c7196f41712eacec)
 on November 6, 2023.
 </em></small>
 
@@ -103,7 +105,7 @@ on November 6, 2023.
 
 Commençons par imaginer que nous portons notre regard dans un télescope et que nous observons M51, la [*galaxie du Tourbillon*](https://fr.wikipedia.org/wiki/M51_(galaxie)). Notre système nerveux est responsable de notre capacité à voir le monde lumineux qui en résulte. Les photons réfléchis sur la surface du tableau sont ensuite focalisés par nos yeux pour former une image sur la rétine. Cette fine surface qui tapisse le fond de l'œil contient un réseau compact de neurones qui transforment cette image en un signal électro-chimique. Celui-ci entraine une cascade de processus qui va conduire à séparer différentes caractéristiques de la lumière, comme notamment le contraste ou la couleur pour finalement former une représentation neurale qui, transmise au reste du cerveau par le nerf optique, permettra de construire une perception de l'ensemble de la scène.
 
-![Rétinotopie. Une image de la [*galaxie du Tourbillon*](https://fr.wikipedia.org/wiki/M51_(galaxie)) (photo © Laurent Perrinet, 6 minutes d'exposition avec un [evScope](https://en.wikipedia.org/wiki/Unistellar)) peut être cartographiée sur une grille régulière dénotée ici par des lignes verticales (en rouge) et horizontales (en bleu). La rétinotopie transforme radicalement cette grille, et en particulier la zone représentant la fovéa (en gris) occupe environ la moitié de l'espace dans l'espace rétinien. Appliquée à l'image originale de la galaxie, l'image est déformée et représente plus finement les parties sous l'axe de vue (ici le cœur de la galaxie) et transforme les bras spiralés de la galaxie en segments.](images/retinotopy.png "Retinotopy"){#fig:Retinotopy}
+![Rétinotopie. L'image du tableau ["Les Ambassadeurs" de Hans Holbein le Jeune](https://fr.wikipedia.org/wiki/Les_Ambassadeurs) peut être représentée sur une grille régulière représentée par des lignes verticales (rouges) et horizontales (bleues). La rétinotopie transforme radicalement cette grille, et en particulier la zone représentant la fovéa (en gris) occupe environ la moitié de l'espace dans l'espace rétinien. Appliquée à l'image originale du portrait, l'image est fortement déformée et représente plus finalement les parties situées sous l'axe de vision (ici la main).](images/retinotopy.png "Retinotopy"){#fig:Retinotopy}
 
 Il est remarquable de constater que cette représentation est fortement contrainte par l'anatomie de l'œil et de la rétine. Par exemple, la densité de neurones est bien plus élevée dans un rayon de quelque degrés autour du centre de l'axe visuel, où environ la moitié de notre acuité visuelle est concentrée (Figure @fig:Retinotopy). Cette zone, appelée fovéa, est principalement composée de photorécepteurs sensibles aux couleurs. En revanche, les photorécepteurs en périphérie de cette zone sont principalement insensibles aux couleurs, mais ont la capacité de répondre plus rapidement aux variations de luminosité, et aussi de s'adapter à des conditions d'éclairage changeantes, notamment la nuit. Cette contrainte physiologique explique pourquoi les objets peuvent apparaître en nuances de gris sous un clair de lune ou pourquoi nous pouvons plus facilement distinguer une étoile faiblement brillante en fixant légèrement à côté d'elle. 
 
