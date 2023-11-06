@@ -46,6 +46,7 @@ content/01.content.md:1:sur
 content/01.content.md:1:une
 content/01.content.md:3:Matière
 content/01.content.md:3:voir
+content/01.content.md:5:Ambassadeurs
 content/01.content.md:5:capacité
 content/01.content.md:5:caractéristiques
 content/01.content.md:5:Celui
@@ -60,16 +61,14 @@ content/01.content.md:5:construire
 content/01.content.md:5:contient
 content/01.content.md:5:contraste
 content/01.content.md:5:couleur
-content/01.content.md:5:dans
 content/01.content.md:5:différentes
 content/01.content.md:5:électro
 content/01.content.md:5:ensuite
 content/01.content.md:5:entraine
 content/01.content.md:5:finalement
 content/01.content.md:5:focalisés
-content/01.content.md:5:galaxie
-content/01.content.md:5:galaxie
 content/01.content.md:5:imaginer
+content/01.content.md:5:Jeune
 content/01.content.md:5:l'ensemble
 content/01.content.md:5:l'œil
 content/01.content.md:5:lumière
@@ -82,7 +81,6 @@ content/01.content.md:5:notamment
 content/01.content.md:5:notre
 content/01.content.md:5:notre
 content/01.content.md:5:Notre
-content/01.content.md:5:observons
 content/01.content.md:5:optique
 content/01.content.md:5:ou
 content/01.content.md:5:permettra
@@ -105,10 +103,9 @@ content/01.content.md:5:séparer
 content/01.content.md:5:sont
 content/01.content.md:5:sur
 content/01.content.md:5:sur
+content/01.content.md:5:sur
 content/01.content.md:5:système
 content/01.content.md:5:tapisse
-content/01.content.md:5:télescope
-content/01.content.md:5:Tourbillon
 content/01.content.md:5:transforment
 content/01.content.md:5:transmise
 content/01.content.md:5:une

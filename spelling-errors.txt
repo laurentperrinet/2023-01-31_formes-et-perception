@@ -14,8 +14,8 @@ alignements
 alignés
 alimente
 allant
-Alors
-ambassadeurs
+alors
+Ambassadeurs
 analogique
 anatomiques
 apparaître
@@ -78,7 +78,7 @@ caractérisée
 caractéristiques
 celle
 celles
-Celui
+celui
 Cependant
 cérébral
 certaine
@@ -87,7 +87,7 @@ cerveau
 Ces
 c’est
 cet
-Cette
+cette
 ceux
 chacun
 chacune
@@ -108,7 +108,7 @@ coexiste
 colorés
 combinés
 comme
-Commençons
+commençons
 communiquent
 complémentaires
 complété
@@ -116,7 +116,7 @@ complexe
 composée
 composent
 compréhension
-comprendre
+Comprendre
 concentrée
 conçu
 conduire
@@ -183,7 +183,7 @@ démontrent
 d’en
 d’engagement
 d’enrichir
-densité
+Densité
 départemental
 déplaçant
 dépourvus
@@ -309,7 +309,7 @@ fois
 fonction
 fondamental
 fondamentale
-Fondation
+fondation
 formaient
 forme
 formée
@@ -318,7 +318,6 @@ formes
 fortement
 fovéa
 fragmentant
-galaxie
 gamme
 général
 générale
@@ -419,7 +418,7 @@ l’habitude
 l’humain
 ligne
 lignes
-L’image
+l’image
 limité
 limites
 l’importance
@@ -434,7 +433,7 @@ L’observation
 localiser
 locaux
 l’œil
-L’œuvre
+l’œuvre
 l’on
 l’organisation
 l’orientation
@@ -489,7 +488,7 @@ niveaux
 nombre
 nombreux
 notamment
-Notre
+notre
 nourrit
 nouveau
 nouvelle
@@ -503,7 +502,6 @@ observateur
 observateurs
 observées
 observions
-observons
 obtenir
 occupe
 octobre
@@ -725,14 +723,12 @@ tandis
 tant
 tantôt
 tapisse
-télescope
 telle
 telles
 terme
 Timone
 toucher
 toujours
-Tourbillon
 tourner
 Toutefois
 toutes
@@ -740,7 +736,7 @@ traite
 traitée
 traitement
 Trame
-trames
+Trames
 transformaient
 transforme
 transforment
@@ -749,7 +745,7 @@ transparentes
 travaillant
 tri
 Tropique
-Une
+une
 Université
 utilisé
 utiliser
@@ -769,7 +765,7 @@ visuels
 vitesse
 vivants
 voiles
-Voir
+voir
 voix
 vont
 vraisemblance

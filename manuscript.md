@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2023-11-06" />
   <meta name="citation_publication_date" content="2023-11-06" />
   <meta property="article:published_time" content="2023-11-06" />
-  <meta name="dc.modified" content="2023-11-06T19:33:09+00:00" />
-  <meta property="article:modified_time" content="2023-11-06T19:33:09+00:00" />
+  <meta name="dc.modified" content="2023-11-06T19:52:24+00:00" />
+  <meta property="article:modified_time" content="2023-11-06T19:52:24+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,13 +39,13 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/112a0299320e4dcd2d9af3b0c7196f41712eacec/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/112a0299320e4dcd2d9af3b0c7196f41712eacec/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/112a0299320e4dcd2d9af3b0c7196f41712eacec/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/d1cc1d189b2ece5d7178a9603b779fe69bf028f0/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/d1cc1d189b2ece5d7178a9603b779fe69bf028f0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/d1cc1d189b2ece5d7178a9603b779fe69bf028f0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/laurentperrinet/2023-01-31_formes-et-perception/raw/112a0299320e4dcd2d9af3b0c7196f41712eacec/content/images/eVscope-20230319-220133_crop-small.png" />
-  <meta property="twitter:image" content="https://github.com/laurentperrinet/2023-01-31_formes-et-perception/raw/112a0299320e4dcd2d9af3b0c7196f41712eacec/content/images/eVscope-20230319-220133_crop-small.png" />
+  <meta property="og:image" content="https://github.com/laurentperrinet/2023-01-31_formes-et-perception/raw/d1cc1d189b2ece5d7178a9603b779fe69bf028f0/content/images/eVscope-20230319-220133_crop-small.png" />
+  <meta property="twitter:image" content="https://github.com/laurentperrinet/2023-01-31_formes-et-perception/raw/d1cc1d189b2ece5d7178a9603b779fe69bf028f0/content/images/eVscope-20230319-220133_crop-small.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -67,9 +67,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/112a0299320e4dcd2d9af3b0c7196f41712eacec/))
+([permalink](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/v/d1cc1d189b2ece5d7178a9603b779fe69bf028f0/))
 was automatically generated
-from [laurentperrinet/2023-01-31_formes-et-perception@112a029](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/112a0299320e4dcd2d9af3b0c7196f41712eacec)
+from [laurentperrinet/2023-01-31_formes-et-perception@d1cc1d1](https://github.com/laurentperrinet/2023-01-31_formes-et-perception/tree/d1cc1d189b2ece5d7178a9603b779fe69bf028f0)
 on November 6, 2023.
 </em></small>
 
@@ -103,7 +103,7 @@ on November 6, 2023.
 
 ## Matière à voir, la neuroscience de la vision
 
-Commençons par imaginer que nous portons notre regard dans un télescope et que nous observons M51, la [*galaxie du Tourbillon*](https://fr.wikipedia.org/wiki/M51_(galaxie)). Notre système nerveux est responsable de notre capacité à voir le monde lumineux qui en résulte. Les photons réfléchis sur la surface du tableau sont ensuite focalisés par nos yeux pour former une image sur la rétine. Cette fine surface qui tapisse le fond de l'œil contient un réseau compact de neurones qui transforment cette image en un signal électro-chimique. Celui-ci entraine une cascade de processus qui va conduire à séparer différentes caractéristiques de la lumière, comme notamment le contraste ou la couleur pour finalement former une représentation neurale qui, transmise au reste du cerveau par le nerf optique, permettra de construire une perception de l'ensemble de la scène.
+Commençons par imaginer que nous portons notre regard sur le tableau ["Les Ambassadeurs" de Hans Holbein le Jeune](https://fr.wikipedia.org/wiki/Les_Ambassadeurs). Notre système nerveux est responsable de notre capacité à voir le monde lumineux qui en résulte. Les photons réfléchis sur la surface du tableau sont ensuite focalisés par nos yeux pour former une image sur la rétine. Cette fine surface qui tapisse le fond de l'œil contient un réseau compact de neurones qui transforment cette image en un signal électro-chimique. Celui-ci entraine une cascade de processus qui va conduire à séparer différentes caractéristiques de la lumière, comme notamment le contraste ou la couleur pour finalement former une représentation neurale qui, transmise au reste du cerveau par le nerf optique, permettra de construire une perception de l'ensemble de la scène.
 
 ![Rétinotopie. L'image du tableau ["Les Ambassadeurs" de Hans Holbein le Jeune](https://fr.wikipedia.org/wiki/Les_Ambassadeurs) peut être représentée sur une grille régulière représentée par des lignes verticales (rouges) et horizontales (bleues). La rétinotopie transforme radicalement cette grille, et en particulier la zone représentant la fovéa (en gris) occupe environ la moitié de l'espace dans l'espace rétinien. Appliquée à l'image originale du portrait, l'image est fortement déformée et représente plus finalement les parties situées sous l'axe de vision (ici la main).](images/retinotopy.png "Retinotopy"){#fig:Retinotopy}
 
